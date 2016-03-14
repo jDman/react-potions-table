@@ -8,13 +8,13 @@ class TableCell extends React.Component{
     if (typeof this.props.cellData === 'boolean') {
       if (this.props.cellData) {
         stockClass = 'success';
-        text = "In stock";
+        text = <i className='glyphicon glyphicon-ok'></i>;
       } else {
         stockClass = 'danger';
-        text = "Out of stock";
+        text = <i className='glyphicon glyphicon-remove'></i>;
       }
     } else {
-      text = this.props.cellData;
+      text = <span>{this.props.cellData}</span>;
     }
 
     return (
