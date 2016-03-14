@@ -1,5 +1,8 @@
 import React from 'react';
 
+import Table from './components/table/table';
+import TableRow from './components/table/table-row';
+
 import Potions from './collections/potions';
 
 let potionCollection = new Potions();
@@ -31,11 +34,15 @@ class App extends React.Component {
       <div className='container'>
         <h1>Potions</h1>
 
-        {
-          this.state.potions.map(potion => {
-            return <p key={potion._id}>{potion.name}</p>
-          })
-        }
+        <Table list={this.state.potions}>
+          {
+            this.state.potions.map(potion => {
+              return <p key={potion._id}>{potion.name}</p>
+            })
+          }
+        </Table>
+
+
       </div>
     );
   }
