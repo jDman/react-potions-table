@@ -1,0 +1,1802 @@
+[
+  {
+    "_id": "56e69b8a779bb545e2f93da3",
+    "index": 0,
+    "isStocked": false,
+    "price": 172.84,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 48,
+    "color": "purple",
+    "name": "quis laboris",
+    "about": "Do magna exercitation commodo non ex. Sunt adipisicing velit do amet pariatur laborum qui cillum. Nostrud incididunt reprehenderit mollit qui non tempor fugiat qui sit aliqua esse est occaecat.\r\n",
+    "tags": [
+      "nulla",
+      "nostrud",
+      "cupidatat",
+      "velit",
+      "laboris"
+    ]
+  },
+  {
+    "_id": "56e69b8a1c63e0a03e97bb51",
+    "index": 1,
+    "isStocked": true,
+    "price": 378.15,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 47,
+    "color": "green",
+    "name": "reprehenderit consectetur",
+    "about": "Amet nulla veniam incididunt nulla officia et magna ullamco adipisicing enim. Proident laborum in veniam in incididunt in dolor consequat do do mollit exercitation. Ea nulla est adipisicing eu consequat magna et incididunt elit proident. Officia et incididunt deserunt ex Lorem aliqua tempor. Enim anim dolore culpa dolor id. Minim pariatur irure aliquip ad mollit amet cillum. Ipsum quis sint commodo irure Lorem deserunt deserunt veniam.\r\n",
+    "tags": [
+      "eiusmod",
+      "officia",
+      "nisi",
+      "voluptate",
+      "nulla"
+    ]
+  },
+  {
+    "_id": "56e69b8aac753b2cfaf72029",
+    "index": 2,
+    "isStocked": true,
+    "price": 352.71,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 43,
+    "color": "purple",
+    "name": "nostrud anim",
+    "about": "Proident duis ipsum laboris magna culpa amet nisi ex laboris amet reprehenderit ex culpa consequat. Irure ea voluptate adipisicing qui proident et ullamco enim nisi proident irure ad tempor. Nisi officia labore enim proident ex cupidatat ex veniam reprehenderit non nisi. Labore veniam aute elit culpa ut fugiat excepteur cillum nostrud fugiat cupidatat Lorem culpa qui.\r\n",
+    "tags": [
+      "Lorem",
+      "dolor",
+      "dolore",
+      "dolor",
+      "fugiat"
+    ]
+  },
+  {
+    "_id": "56e69b8ab142f38c7d9b8893",
+    "index": 3,
+    "isStocked": true,
+    "price": 268.47,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 99,
+    "color": "brown",
+    "name": "non qui",
+    "about": "Occaecat aliquip in fugiat veniam aliquip. Ut ut excepteur in amet officia non. Ad labore occaecat qui officia anim. Nostrud proident incididunt nisi duis sit. Veniam ut sunt duis culpa amet est minim enim.\r\n",
+    "tags": [
+      "sit",
+      "minim",
+      "incididunt",
+      "minim",
+      "aute"
+    ]
+  },
+  {
+    "_id": "56e69b8a8333f99195dbd697",
+    "index": 4,
+    "isStocked": false,
+    "price": 165.99,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 28,
+    "color": "green",
+    "name": "elit sunt",
+    "about": "Velit consectetur aute do nostrud Lorem aliquip cillum magna eiusmod dolor enim. Labore nisi dolore ex occaecat officia cupidatat do qui nisi quis reprehenderit id id dolor. Exercitation Lorem nulla dolor cillum nisi elit et proident cillum tempor aliquip. Consequat laborum sit est esse ea duis. Laboris quis magna ut cillum sunt enim nulla do adipisicing qui.\r\n",
+    "tags": [
+      "ex",
+      "proident",
+      "sunt",
+      "nostrud",
+      "duis"
+    ]
+  },
+  {
+    "_id": "56e69b8a8687f503736687a6",
+    "index": 5,
+    "isStocked": false,
+    "price": 176.05,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 43,
+    "color": "brown",
+    "name": "elit ea",
+    "about": "Aliqua et aliquip ullamco do sint sit sunt. Nostrud irure ad nostrud est id ex nulla ea laborum veniam. Nisi ipsum nostrud nisi exercitation adipisicing consequat nulla esse ipsum anim commodo consequat mollit. Occaecat ullamco esse exercitation velit sunt irure deserunt eiusmod dolore velit eu aliqua quis.\r\n",
+    "tags": [
+      "et",
+      "elit",
+      "aliqua",
+      "veniam",
+      "consequat"
+    ]
+  },
+  {
+    "_id": "56e69b8ae874096abb252c4d",
+    "index": 6,
+    "isStocked": true,
+    "price": 272.87,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 30,
+    "color": "purple",
+    "name": "eiusmod dolore",
+    "about": "Ea laboris veniam anim velit non nostrud. Consectetur sint reprehenderit sint enim id Lorem officia ad do excepteur occaecat nulla culpa enim. Irure adipisicing consectetur voluptate deserunt voluptate laborum officia fugiat sint irure veniam esse ad. Incididunt ullamco mollit ad consequat excepteur sit officia aute ea. Lorem adipisicing id ea excepteur ex dolor proident deserunt nostrud. Cupidatat excepteur proident exercitation elit officia est. Lorem qui fugiat sunt aliquip sint culpa minim mollit cillum.\r\n",
+    "tags": [
+      "qui",
+      "sint",
+      "magna",
+      "ea",
+      "elit"
+    ]
+  },
+  {
+    "_id": "56e69b8a0f8631b599816fea",
+    "index": 7,
+    "isStocked": false,
+    "price": 240.79,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 29,
+    "color": "brown",
+    "name": "cupidatat laborum",
+    "about": "Et laborum est minim in ea amet exercitation. Occaecat Lorem veniam consectetur adipisicing excepteur Lorem Lorem pariatur. Quis consectetur officia ipsum consequat veniam. Dolor esse quis veniam nulla ea eiusmod quis. Proident veniam nostrud minim sit eu tempor aute.\r\n",
+    "tags": [
+      "duis",
+      "officia",
+      "enim",
+      "nostrud",
+      "proident"
+    ]
+  },
+  {
+    "_id": "56e69b8a4ee257a823087229",
+    "index": 8,
+    "isStocked": false,
+    "price": 237.61,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 54,
+    "color": "green",
+    "name": "veniam labore",
+    "about": "Nostrud quis aliquip dolore aliquip labore. Exercitation nulla consequat cupidatat eiusmod excepteur reprehenderit deserunt non dolore minim. Reprehenderit est ullamco voluptate minim aliqua irure. In duis commodo id duis consectetur pariatur sunt dolor qui. Sint excepteur excepteur labore ad est commodo aliqua do incididunt.\r\n",
+    "tags": [
+      "occaecat",
+      "id",
+      "eu",
+      "Lorem",
+      "dolor"
+    ]
+  },
+  {
+    "_id": "56e69b8a79220926195daf0a",
+    "index": 9,
+    "isStocked": true,
+    "price": 143.48,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 59,
+    "color": "green",
+    "name": "id ex",
+    "about": "Non nisi adipisicing ex id ipsum duis aliquip exercitation est commodo dolore ipsum. Exercitation est tempor velit sint ad do dolore voluptate officia exercitation est proident in. Qui anim officia laboris exercitation. Cupidatat nostrud tempor qui veniam tempor proident. Dolor est eu elit sunt dolor occaecat officia est anim dolor. Elit labore incididunt laborum mollit.\r\n",
+    "tags": [
+      "labore",
+      "cupidatat",
+      "sit",
+      "eu",
+      "in"
+    ]
+  },
+  {
+    "_id": "56e69b8a7f183a7c52ea8642",
+    "index": 10,
+    "isStocked": false,
+    "price": 348.88,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 7,
+    "color": "brown",
+    "name": "sint ipsum",
+    "about": "Qui eiusmod tempor ullamco aute excepteur quis nisi duis tempor fugiat voluptate sit. Exercitation eu ea aute commodo exercitation exercitation. Laboris dolore Lorem do tempor. Ut qui eiusmod sit proident proident sunt laboris ullamco in sit aliqua voluptate reprehenderit. Dolor cupidatat dolor nisi aliqua mollit occaecat do nisi id officia do ut nostrud. Quis eiusmod elit magna magna occaecat consectetur duis deserunt culpa exercitation eu laboris eu. Aliquip ea elit mollit ut fugiat est duis fugiat pariatur et minim deserunt nostrud laborum.\r\n",
+    "tags": [
+      "anim",
+      "amet",
+      "laboris",
+      "sunt",
+      "ullamco"
+    ]
+  },
+  {
+    "_id": "56e69b8a091593199cb96d8d",
+    "index": 11,
+    "isStocked": false,
+    "price": 375.6,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 15,
+    "color": "blue",
+    "name": "occaecat officia",
+    "about": "Deserunt minim et deserunt eiusmod magna. Ipsum laboris consectetur officia qui ex labore irure voluptate proident fugiat. Fugiat nulla voluptate mollit velit aute. Ut tempor aute aliquip eu aute ut eu laboris do. Aliquip eu mollit exercitation tempor est Lorem enim magna. Laboris adipisicing qui magna et non incididunt amet anim velit ea eu duis commodo dolore.\r\n",
+    "tags": [
+      "labore",
+      "do",
+      "dolor",
+      "labore",
+      "ea"
+    ]
+  },
+  {
+    "_id": "56e69b8a3775fbb74c141f08",
+    "index": 12,
+    "isStocked": false,
+    "price": 263,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 99,
+    "color": "purple",
+    "name": "consequat quis",
+    "about": "Fugiat est consequat officia nostrud sit veniam excepteur nulla. Et nisi enim aliquip cillum tempor minim nulla cillum quis quis pariatur. Cupidatat do aliqua sit aliquip eiusmod enim ullamco eu magna aliqua consectetur dolor ad. Qui elit esse officia in culpa excepteur minim tempor ad Lorem. Aliquip non eu do minim labore anim amet dolor aute ad sit proident do. Duis cupidatat consequat amet laborum et enim. Elit sint eu nisi occaecat irure esse.\r\n",
+    "tags": [
+      "ullamco",
+      "cillum",
+      "consequat",
+      "adipisicing",
+      "velit"
+    ]
+  },
+  {
+    "_id": "56e69b8a790e6a4984d0f29d",
+    "index": 13,
+    "isStocked": true,
+    "price": 228.53,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 59,
+    "color": "green",
+    "name": "Lorem mollit",
+    "about": "Occaecat magna proident veniam occaecat dolore aute non ut ex. Culpa dolore aliquip tempor quis eu sint. Esse sint do aute elit quis eiusmod anim cupidatat. Lorem ad ea veniam fugiat pariatur minim excepteur do esse tempor ut officia laborum.\r\n",
+    "tags": [
+      "sunt",
+      "ad",
+      "id",
+      "commodo",
+      "dolor"
+    ]
+  },
+  {
+    "_id": "56e69b8a7a4dd9ce20cbbf01",
+    "index": 14,
+    "isStocked": false,
+    "price": 223.99,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 76,
+    "color": "red",
+    "name": "id voluptate",
+    "about": "Occaecat nulla exercitation anim id duis. Anim est est ex laboris anim adipisicing exercitation consectetur Lorem. Deserunt elit non excepteur duis officia magna mollit magna consectetur ea eu. Ut elit proident cillum ipsum et velit culpa sint ad ex. Elit amet voluptate Lorem est non amet ipsum. Voluptate consectetur tempor tempor fugiat laborum deserunt aliquip laboris excepteur eu et amet anim aute.\r\n",
+    "tags": [
+      "culpa",
+      "veniam",
+      "consectetur",
+      "ut",
+      "ea"
+    ]
+  },
+  {
+    "_id": "56e69b8a94285d6170434ed4",
+    "index": 15,
+    "isStocked": true,
+    "price": 252.7,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 40,
+    "color": "purple",
+    "name": "proident excepteur",
+    "about": "Culpa anim tempor tempor ad adipisicing ad aute deserunt id nostrud ut consectetur. Non ex officia deserunt esse officia ex. Irure esse pariatur elit veniam proident nisi.\r\n",
+    "tags": [
+      "nostrud",
+      "duis",
+      "culpa",
+      "ad",
+      "elit"
+    ]
+  },
+  {
+    "_id": "56e69b8a8a01773df4516811",
+    "index": 16,
+    "isStocked": false,
+    "price": 199.98,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 25,
+    "color": "brown",
+    "name": "est Lorem",
+    "about": "Id fugiat tempor consequat ut quis exercitation. Qui tempor occaecat eiusmod eu nulla qui laborum et sint dolore culpa eiusmod. Commodo excepteur cupidatat consectetur veniam amet culpa velit id dolor ea. Eu aute id amet eu.\r\n",
+    "tags": [
+      "anim",
+      "nostrud",
+      "eu",
+      "ea",
+      "pariatur"
+    ]
+  },
+  {
+    "_id": "56e69b8a3f43ee8b03fbdc65",
+    "index": 17,
+    "isStocked": true,
+    "price": 161.34,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 80,
+    "color": "red",
+    "name": "nostrud Lorem",
+    "about": "Sit laborum magna veniam cillum exercitation aliqua excepteur. Minim dolor exercitation ullamco nostrud anim enim veniam Lorem elit laboris reprehenderit nostrud id. Occaecat in laboris reprehenderit adipisicing sit aute incididunt nisi esse ipsum commodo voluptate commodo ipsum. Nulla tempor cupidatat sit reprehenderit eu officia irure et nisi deserunt amet sunt sint. Ea commodo officia cillum amet anim consectetur eiusmod Lorem proident elit sit. Eiusmod laboris culpa nulla sunt culpa nisi sit tempor enim amet.\r\n",
+    "tags": [
+      "reprehenderit",
+      "irure",
+      "deserunt",
+      "culpa",
+      "veniam"
+    ]
+  },
+  {
+    "_id": "56e69b8a01746d2875990704",
+    "index": 18,
+    "isStocked": false,
+    "price": 399.89,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 6,
+    "color": "purple",
+    "name": "mollit fugiat",
+    "about": "Esse officia nulla adipisicing est. Nisi aliquip pariatur ipsum ut elit anim ut minim. Laborum est voluptate deserunt anim officia nulla ut Lorem excepteur est irure. Velit Lorem eiusmod sunt non ex irure ullamco aliquip. Mollit tempor consectetur sunt nulla nulla culpa magna.\r\n",
+    "tags": [
+      "do",
+      "amet",
+      "officia",
+      "occaecat",
+      "deserunt"
+    ]
+  },
+  {
+    "_id": "56e69b8ad7546842244ece50",
+    "index": 19,
+    "isStocked": false,
+    "price": 259.23,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 76,
+    "color": "blue",
+    "name": "ullamco non",
+    "about": "Exercitation labore excepteur pariatur ex excepteur veniam cupidatat Lorem consectetur magna tempor qui. Esse et voluptate excepteur minim officia nulla voluptate. Excepteur proident eu deserunt magna proident commodo magna eiusmod qui amet cupidatat consectetur. Reprehenderit labore consequat incididunt veniam officia quis magna fugiat adipisicing. Tempor eu Lorem cupidatat in ullamco do elit eu anim ullamco ipsum esse. Sunt incididunt do voluptate quis minim incididunt elit est laborum mollit ut velit nisi. Non sunt dolore do duis incididunt occaecat mollit fugiat anim esse mollit incididunt aliqua eiusmod.\r\n",
+    "tags": [
+      "occaecat",
+      "consectetur",
+      "do",
+      "nisi",
+      "est"
+    ]
+  },
+  {
+    "_id": "56e69b8a445285aad7cddbd5",
+    "index": 20,
+    "isStocked": true,
+    "price": 107.4,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 80,
+    "color": "green",
+    "name": "velit aliqua",
+    "about": "Amet ipsum deserunt esse amet laboris ad mollit elit ad. Nulla irure consequat duis sunt adipisicing adipisicing eu excepteur ex veniam occaecat consequat consectetur. Irure ut anim velit officia et. Minim est proident sunt pariatur in nostrud id magna pariatur proident. Laborum deserunt consequat aliqua enim consectetur ex eu ea commodo veniam deserunt excepteur cupidatat culpa. Cupidatat minim aliquip quis adipisicing elit quis magna.\r\n",
+    "tags": [
+      "reprehenderit",
+      "mollit",
+      "ad",
+      "culpa",
+      "duis"
+    ]
+  },
+  {
+    "_id": "56e69b8a525fd7cb713be84f",
+    "index": 21,
+    "isStocked": false,
+    "price": 222.41,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 40,
+    "color": "purple",
+    "name": "labore irure",
+    "about": "Reprehenderit cupidatat nostrud culpa sit. Mollit elit cillum excepteur cupidatat mollit magna minim duis commodo exercitation reprehenderit est laboris. Mollit esse elit aliqua sunt.\r\n",
+    "tags": [
+      "eiusmod",
+      "officia",
+      "fugiat",
+      "incididunt",
+      "sit"
+    ]
+  },
+  {
+    "_id": "56e69b8a2d104b9113869367",
+    "index": 22,
+    "isStocked": false,
+    "price": 176,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 32,
+    "color": "blue",
+    "name": "ut nisi",
+    "about": "Quis reprehenderit magna irure do non dolore aute aute magna duis aute. Quis in sit est fugiat aliqua dolor ipsum amet commodo pariatur aute nisi minim ut. Nisi eu consequat fugiat quis est nisi tempor pariatur aliquip. Sint commodo cillum consectetur amet.\r\n",
+    "tags": [
+      "cillum",
+      "dolore",
+      "irure",
+      "ullamco",
+      "sint"
+    ]
+  },
+  {
+    "_id": "56e69b8a4ff4378b243c3c67",
+    "index": 23,
+    "isStocked": true,
+    "price": 397.21,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 66,
+    "color": "green",
+    "name": "cupidatat irure",
+    "about": "Enim officia ut deserunt labore tempor exercitation sunt et ut enim ullamco irure amet. In laboris commodo ullamco proident ullamco cillum esse voluptate qui. Proident aute anim anim ex. Culpa ex nisi qui adipisicing labore nostrud deserunt commodo excepteur consequat aliqua laborum. Cupidatat aute excepteur velit ad veniam sit et et labore consectetur. Et labore est sint consectetur sint sit laboris nisi nulla sunt esse consequat ipsum.\r\n",
+    "tags": [
+      "est",
+      "occaecat",
+      "ad",
+      "pariatur",
+      "excepteur"
+    ]
+  },
+  {
+    "_id": "56e69b8aab2ba9d9c2b7d03a",
+    "index": 24,
+    "isStocked": true,
+    "price": 101.24,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 62,
+    "color": "green",
+    "name": "ea ex",
+    "about": "Aliquip minim ipsum consequat id nulla consequat in occaecat elit fugiat. Et qui enim elit laborum id nisi dolore. Laboris qui aliquip magna sint sit dolor ea elit ea culpa et fugiat officia. Quis eiusmod aliquip elit cillum adipisicing enim ex labore cillum ex.\r\n",
+    "tags": [
+      "Lorem",
+      "officia",
+      "adipisicing",
+      "aute",
+      "ipsum"
+    ]
+  },
+  {
+    "_id": "56e69b8adbe1f08fb50340a9",
+    "index": 25,
+    "isStocked": true,
+    "price": 314.23,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 58,
+    "color": "red",
+    "name": "nostrud amet",
+    "about": "Aliqua ad ullamco occaecat in aliqua ullamco mollit excepteur Lorem. Velit excepteur non minim fugiat qui aliquip velit. Tempor consectetur ullamco velit elit.\r\n",
+    "tags": [
+      "ea",
+      "ullamco",
+      "nulla",
+      "velit",
+      "minim"
+    ]
+  },
+  {
+    "_id": "56e69b8a459ccc6ff0a3abe2",
+    "index": 26,
+    "isStocked": false,
+    "price": 234.41,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 4,
+    "color": "purple",
+    "name": "minim ad",
+    "about": "Eu officia id velit pariatur ad sint nostrud est aliquip ullamco duis est ullamco. Commodo id nisi consectetur enim id tempor ex. Exercitation id qui magna et magna consectetur. Est minim non fugiat eu Lorem dolore.\r\n",
+    "tags": [
+      "fugiat",
+      "aliqua",
+      "adipisicing",
+      "labore",
+      "ipsum"
+    ]
+  },
+  {
+    "_id": "56e69b8accf43885ee24f78d",
+    "index": 27,
+    "isStocked": false,
+    "price": 260.09,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 39,
+    "color": "brown",
+    "name": "do dolor",
+    "about": "Sunt eiusmod elit voluptate do aliqua id nostrud nisi cillum magna consequat pariatur mollit. Dolor magna magna amet dolore pariatur proident esse id occaecat labore. Ad occaecat nisi duis in dolore aute officia tempor adipisicing.\r\n",
+    "tags": [
+      "in",
+      "ea",
+      "commodo",
+      "voluptate",
+      "magna"
+    ]
+  },
+  {
+    "_id": "56e69b8a10d3c4b924537745",
+    "index": 28,
+    "isStocked": false,
+    "price": 254.09,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 69,
+    "color": "purple",
+    "name": "sint amet",
+    "about": "Sit pariatur ullamco irure amet cillum tempor amet laborum fugiat. Et veniam commodo duis non nostrud id reprehenderit duis cupidatat mollit. Nulla ipsum elit dolore incididunt fugiat minim sint laborum dolor aliqua ea. Consequat nisi aute veniam excepteur eiusmod cillum nisi sit. Minim est Lorem incididunt proident laboris fugiat Lorem quis magna.\r\n",
+    "tags": [
+      "ea",
+      "consectetur",
+      "ullamco",
+      "est",
+      "nostrud"
+    ]
+  },
+  {
+    "_id": "56e69b8a34490eec800e9e0d",
+    "index": 29,
+    "isStocked": true,
+    "price": 283.87,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 45,
+    "color": "red",
+    "name": "dolor ad",
+    "about": "Cillum non ea aliqua voluptate est exercitation cupidatat officia tempor quis magna minim laboris. Enim voluptate officia magna ad labore adipisicing tempor duis consectetur aliquip aliqua aliqua. Amet duis sunt cillum officia quis labore id irure nulla eu tempor esse. Cupidatat excepteur elit amet elit.\r\n",
+    "tags": [
+      "irure",
+      "minim",
+      "aute",
+      "ex",
+      "ea"
+    ]
+  },
+  {
+    "_id": "56e69b8a821d879eee2da7ff",
+    "index": 30,
+    "isStocked": true,
+    "price": 257.04,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 15,
+    "color": "green",
+    "name": "anim non",
+    "about": "Quis velit exercitation eu excepteur esse ullamco anim id exercitation minim aliqua nostrud pariatur id. Nulla fugiat enim laborum fugiat dolor velit nulla reprehenderit magna ex. Veniam adipisicing magna amet occaecat magna nulla ad duis ipsum et anim. Mollit enim enim ex consequat proident. Ipsum velit et magna et aliqua proident aute est.\r\n",
+    "tags": [
+      "minim",
+      "consequat",
+      "aliqua",
+      "magna",
+      "Lorem"
+    ]
+  },
+  {
+    "_id": "56e69b8a8f75869cda7edb93",
+    "index": 31,
+    "isStocked": true,
+    "price": 249.61,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 26,
+    "color": "brown",
+    "name": "nostrud in",
+    "about": "Aliquip proident nostrud sunt aliquip culpa cillum irure occaecat sit irure proident adipisicing elit ut. Tempor officia enim do minim eu consectetur tempor. Aliqua mollit quis cillum pariatur velit ut aliquip adipisicing irure cupidatat culpa. Cupidatat sint ut eu aute amet est consectetur magna eiusmod incididunt excepteur nisi laboris aliquip. Minim mollit id anim ea exercitation do id amet.\r\n",
+    "tags": [
+      "reprehenderit",
+      "duis",
+      "duis",
+      "id",
+      "pariatur"
+    ]
+  },
+  {
+    "_id": "56e69b8a6223fcc7a229654e",
+    "index": 32,
+    "isStocked": true,
+    "price": 163.67,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 86,
+    "color": "blue",
+    "name": "laborum culpa",
+    "about": "Ex proident anim elit eu cupidatat veniam non enim cillum tempor. Tempor in enim dolor culpa consectetur consectetur. Adipisicing eiusmod consectetur ut cupidatat proident non ut dolor elit in mollit minim.\r\n",
+    "tags": [
+      "elit",
+      "ex",
+      "labore",
+      "cillum",
+      "incididunt"
+    ]
+  },
+  {
+    "_id": "56e69b8aa4750d44172d98c0",
+    "index": 33,
+    "isStocked": true,
+    "price": 195.95,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 60,
+    "color": "purple",
+    "name": "reprehenderit ipsum",
+    "about": "Mollit est officia sunt esse in deserunt occaecat sint eiusmod dolor quis officia. Ea aliquip est aliquip sint irure in exercitation commodo duis qui amet reprehenderit. Id deserunt nostrud fugiat Lorem cupidatat exercitation ut eiusmod dolor et nostrud.\r\n",
+    "tags": [
+      "exercitation",
+      "minim",
+      "aute",
+      "culpa",
+      "pariatur"
+    ]
+  },
+  {
+    "_id": "56e69b8a6b14cd2b8aeeb31b",
+    "index": 34,
+    "isStocked": true,
+    "price": 111.27,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 32,
+    "color": "brown",
+    "name": "voluptate culpa",
+    "about": "Ex amet esse sunt ad esse elit culpa magna nisi cupidatat. Laborum nisi commodo excepteur id occaecat irure non. Ad enim cupidatat mollit esse non esse culpa nostrud. Reprehenderit ea aliqua nisi ex. Duis dolor sit duis veniam deserunt ex duis eu magna incididunt. Amet proident minim proident nulla do quis. Est sint ullamco labore cupidatat elit occaecat sint.\r\n",
+    "tags": [
+      "aliqua",
+      "cillum",
+      "elit",
+      "ut",
+      "veniam"
+    ]
+  },
+  {
+    "_id": "56e69b8a5499cd0a45a5ef2b",
+    "index": 35,
+    "isStocked": false,
+    "price": 125.46,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 55,
+    "color": "blue",
+    "name": "esse eu",
+    "about": "Mollit sint aute cupidatat exercitation tempor mollit mollit consectetur nulla. Fugiat duis quis fugiat labore sint. Et nostrud nostrud aliquip officia. Consectetur labore aliqua fugiat Lorem reprehenderit est labore aute consectetur. Ipsum sit labore proident consequat ipsum laboris laborum. Veniam laborum occaecat Lorem labore. Minim est dolore mollit labore laborum.\r\n",
+    "tags": [
+      "ipsum",
+      "laborum",
+      "velit",
+      "commodo",
+      "pariatur"
+    ]
+  },
+  {
+    "_id": "56e69b8a7b154642744f1bee",
+    "index": 36,
+    "isStocked": true,
+    "price": 221.22,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 14,
+    "color": "green",
+    "name": "nostrud laborum",
+    "about": "Ad aliquip et sit reprehenderit reprehenderit. Magna sint occaecat aliquip occaecat ea veniam laborum voluptate consequat deserunt occaecat sint amet excepteur. Quis est in amet adipisicing commodo reprehenderit commodo anim minim magna quis velit deserunt. Ut ex ex anim eiusmod ipsum non Lorem nostrud ad. Esse amet reprehenderit commodo occaecat est incididunt amet velit. Occaecat officia ea id aliquip id eu labore culpa proident mollit cupidatat. Velit cillum deserunt sint laboris aliqua non.\r\n",
+    "tags": [
+      "veniam",
+      "laborum",
+      "laboris",
+      "eiusmod",
+      "laboris"
+    ]
+  },
+  {
+    "_id": "56e69b8a621abe9ef07e1ce6",
+    "index": 37,
+    "isStocked": true,
+    "price": 121.21,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 20,
+    "color": "green",
+    "name": "ad cupidatat",
+    "about": "Nisi Lorem reprehenderit officia sunt amet ea exercitation Lorem aliquip laborum culpa. Magna do pariatur adipisicing eu dolore. Laborum aliquip sit cillum reprehenderit eu sint dolore veniam. Pariatur irure cupidatat aute deserunt eiusmod commodo proident sit minim nostrud id enim. Deserunt adipisicing enim Lorem exercitation reprehenderit enim elit irure id. Laboris adipisicing excepteur deserunt velit. Culpa officia minim ea mollit irure Lorem Lorem sit sit consectetur ipsum sit occaecat mollit.\r\n",
+    "tags": [
+      "qui",
+      "sint",
+      "Lorem",
+      "aute",
+      "cillum"
+    ]
+  },
+  {
+    "_id": "56e69b8a3f5e000647204d83",
+    "index": 38,
+    "isStocked": false,
+    "price": 286.73,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 47,
+    "color": "red",
+    "name": "minim culpa",
+    "about": "Aliquip ipsum pariatur sint dolore aute magna duis et. Laboris nulla amet aliqua voluptate cillum enim veniam aliquip deserunt voluptate. Officia elit aliqua ex veniam excepteur. Consequat ullamco cillum aute culpa consectetur et consequat enim aute dolor laborum cillum ullamco. Velit aute qui ad Lorem consequat amet officia pariatur. Nulla sit Lorem anim et eu dolore ea ex.\r\n",
+    "tags": [
+      "do",
+      "officia",
+      "velit",
+      "deserunt",
+      "do"
+    ]
+  },
+  {
+    "_id": "56e69b8a07798c5a15684358",
+    "index": 39,
+    "isStocked": true,
+    "price": 323.7,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 58,
+    "color": "brown",
+    "name": "minim eu",
+    "about": "Cupidatat id mollit amet aliqua dolor elit dolor ut ipsum nulla amet ut. Sint ea dolor proident pariatur Lorem commodo consectetur ea labore officia aliqua ex reprehenderit ad. Proident adipisicing dolore ipsum fugiat magna sint.\r\n",
+    "tags": [
+      "labore",
+      "laborum",
+      "velit",
+      "pariatur",
+      "ad"
+    ]
+  },
+  {
+    "_id": "56e69b8a93bd89bdab875b0e",
+    "index": 40,
+    "isStocked": false,
+    "price": 197.1,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 66,
+    "color": "blue",
+    "name": "id anim",
+    "about": "In quis laborum anim et ullamco dolore consectetur incididunt aute. Cupidatat et irure excepteur amet aliquip laboris. Non laboris veniam eiusmod eu consectetur eiusmod. Consectetur officia sunt dolore labore elit amet dolor pariatur do officia esse anim magna sit.\r\n",
+    "tags": [
+      "ad",
+      "nisi",
+      "enim",
+      "in",
+      "ex"
+    ]
+  },
+  {
+    "_id": "56e69b8a174f47be9aac7fb7",
+    "index": 41,
+    "isStocked": false,
+    "price": 313.45,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 32,
+    "color": "blue",
+    "name": "sunt ut",
+    "about": "Ipsum proident sint ad eiusmod id et culpa tempor consequat tempor laboris irure non mollit. Est laboris velit elit reprehenderit ipsum. Veniam veniam aliqua cupidatat quis adipisicing reprehenderit culpa occaecat sunt. Amet duis ea ea magna veniam eu sit ad veniam consequat cillum ea. Eu nisi duis amet commodo ea pariatur esse consequat aliquip sunt commodo officia.\r\n",
+    "tags": [
+      "exercitation",
+      "eiusmod",
+      "consequat",
+      "do",
+      "adipisicing"
+    ]
+  },
+  {
+    "_id": "56e69b8a5ab9afa523974cd2",
+    "index": 42,
+    "isStocked": true,
+    "price": 288.81,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 90,
+    "color": "blue",
+    "name": "et id",
+    "about": "Sit incididunt adipisicing cillum quis ut sunt eu dolore sint cupidatat sunt velit eu anim. Nisi sit et commodo irure nostrud mollit et in est Lorem. Esse Lorem anim ea in deserunt dolor. Incididunt aliquip exercitation laboris laboris velit aute velit occaecat non officia voluptate nostrud adipisicing esse. Nostrud adipisicing excepteur sunt proident elit fugiat nisi veniam in exercitation elit anim anim voluptate. Magna officia officia adipisicing aliquip exercitation sunt fugiat incididunt.\r\n",
+    "tags": [
+      "Lorem",
+      "quis",
+      "est",
+      "excepteur",
+      "est"
+    ]
+  },
+  {
+    "_id": "56e69b8ae4d849a0a41544bb",
+    "index": 43,
+    "isStocked": true,
+    "price": 229.89,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 21,
+    "color": "blue",
+    "name": "laboris exercitation",
+    "about": "Sunt deserunt et veniam consectetur esse dolore qui eiusmod pariatur. Eu cillum est in nulla deserunt. Non consectetur esse non excepteur nostrud nulla consectetur quis proident. Incididunt enim eu amet duis tempor velit magna. Minim reprehenderit exercitation anim consectetur do excepteur adipisicing nulla consequat minim adipisicing. Esse ullamco velit magna amet amet mollit magna laborum nostrud pariatur nisi aliqua sunt excepteur. Id duis officia et deserunt et officia laborum nostrud duis adipisicing.\r\n",
+    "tags": [
+      "sunt",
+      "eiusmod",
+      "sit",
+      "cillum",
+      "Lorem"
+    ]
+  },
+  {
+    "_id": "56e69b8a0ae1b3fda29ae621",
+    "index": 44,
+    "isStocked": false,
+    "price": 392.28,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 87,
+    "color": "blue",
+    "name": "dolore nisi",
+    "about": "Elit do laborum eu duis irure commodo fugiat. Dolore nulla esse consequat enim commodo culpa voluptate consectetur exercitation. Ad minim irure consequat ut ipsum consectetur.\r\n",
+    "tags": [
+      "laboris",
+      "veniam",
+      "sint",
+      "in",
+      "in"
+    ]
+  },
+  {
+    "_id": "56e69b8ae755a74301f4227f",
+    "index": 45,
+    "isStocked": true,
+    "price": 277,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 66,
+    "color": "red",
+    "name": "proident ipsum",
+    "about": "Cillum elit sunt velit officia minim. Anim ipsum ipsum aliquip ad voluptate sunt irure sint eu eiusmod velit dolore. Ullamco eu minim est consectetur exercitation. Ex deserunt reprehenderit sit eu.\r\n",
+    "tags": [
+      "irure",
+      "est",
+      "enim",
+      "reprehenderit",
+      "dolore"
+    ]
+  },
+  {
+    "_id": "56e69b8ad60804788b1d1ffe",
+    "index": 46,
+    "isStocked": false,
+    "price": 280.3,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 10,
+    "color": "green",
+    "name": "sit consequat",
+    "about": "Aliquip nisi sit consequat incididunt est minim aliqua mollit in labore velit ullamco proident. Lorem ullamco qui sunt eiusmod eiusmod nulla duis eiusmod duis fugiat ad eiusmod duis mollit. Voluptate officia excepteur officia enim consectetur sunt duis elit voluptate qui culpa. Ad sit nulla ut et deserunt non.\r\n",
+    "tags": [
+      "est",
+      "labore",
+      "incididunt",
+      "anim",
+      "laboris"
+    ]
+  },
+  {
+    "_id": "56e69b8ac4a00978219a1da5",
+    "index": 47,
+    "isStocked": false,
+    "price": 322.69,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 78,
+    "color": "brown",
+    "name": "velit in",
+    "about": "Voluptate magna officia nulla id ipsum qui irure ullamco cupidatat commodo. Velit aliqua eu velit laborum. Officia dolor cupidatat do eiusmod consectetur aute tempor duis ad. Exercitation aliquip laboris fugiat sit pariatur officia labore ut ut reprehenderit sunt non. Mollit et nisi tempor officia voluptate velit exercitation aliquip consequat aute ullamco id id. Pariatur ullamco ipsum proident culpa. Non sint est et id ea adipisicing amet.\r\n",
+    "tags": [
+      "mollit",
+      "ex",
+      "excepteur",
+      "commodo",
+      "laborum"
+    ]
+  },
+  {
+    "_id": "56e69b8a4e3c0a4ca3bcb518",
+    "index": 48,
+    "isStocked": false,
+    "price": 101.9,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 72,
+    "color": "purple",
+    "name": "esse labore",
+    "about": "Proident deserunt amet culpa sunt laboris do occaecat enim dolor incididunt. Tempor ea et adipisicing esse duis pariatur incididunt quis sunt adipisicing tempor cillum aliquip. Culpa esse exercitation magna minim magna non dolore velit laboris non. Sint laborum do qui reprehenderit proident commodo eu exercitation duis. Labore qui tempor excepteur do aliqua eu duis excepteur consequat officia. Exercitation labore fugiat sit Lorem dolor sit elit ad labore tempor aute. Ad officia culpa quis sint excepteur ad fugiat culpa quis sunt id consequat occaecat nostrud.\r\n",
+    "tags": [
+      "nostrud",
+      "nulla",
+      "non",
+      "eu",
+      "voluptate"
+    ]
+  },
+  {
+    "_id": "56e69b8a67e3bd7e50838b96",
+    "index": 49,
+    "isStocked": true,
+    "price": 262.86,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 74,
+    "color": "green",
+    "name": "sunt ex",
+    "about": "Eiusmod deserunt laboris tempor culpa ipsum qui aliqua. Minim cupidatat sit laborum pariatur labore Lorem excepteur aliquip sit. Consectetur enim adipisicing voluptate laboris eu dolor tempor aliqua est enim occaecat. Dolor sit sit dolore minim. Fugiat ea dolore dolor aute. Quis esse id eiusmod velit qui exercitation sunt.\r\n",
+    "tags": [
+      "incididunt",
+      "aliquip",
+      "qui",
+      "do",
+      "quis"
+    ]
+  },
+  {
+    "_id": "56e69b8a15a266a99a0e1a84",
+    "index": 50,
+    "isStocked": false,
+    "price": 106.75,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 79,
+    "color": "green",
+    "name": "amet do",
+    "about": "Qui commodo amet enim cillum elit sint aliqua quis id excepteur ea. Enim nulla nostrud laborum commodo excepteur. Consequat magna duis tempor sit irure sint voluptate nisi ea quis. Sit magna reprehenderit nostrud aliquip velit ea ipsum excepteur duis tempor consectetur.\r\n",
+    "tags": [
+      "incididunt",
+      "sint",
+      "eiusmod",
+      "reprehenderit",
+      "nisi"
+    ]
+  },
+  {
+    "_id": "56e69b8a2c25bd6642879275",
+    "index": 51,
+    "isStocked": true,
+    "price": 136.3,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 78,
+    "color": "red",
+    "name": "laboris laboris",
+    "about": "Sit ex deserunt minim nulla id irure incididunt id eiusmod cupidatat ea incididunt consectetur. Ut cupidatat mollit dolor eiusmod dolor amet ea. Anim nulla dolore irure cupidatat excepteur proident nisi nisi deserunt reprehenderit ad amet non aute. Cupidatat excepteur aliqua aute do aliquip officia cupidatat eu. Fugiat mollit esse sunt ipsum exercitation in duis dolor proident voluptate adipisicing.\r\n",
+    "tags": [
+      "eiusmod",
+      "ullamco",
+      "id",
+      "nostrud",
+      "cillum"
+    ]
+  },
+  {
+    "_id": "56e69b8aebac5bd2bebc9a6e",
+    "index": 52,
+    "isStocked": true,
+    "price": 182.28,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 79,
+    "color": "red",
+    "name": "elit proident",
+    "about": "Ex quis ex est excepteur aute proident. Sunt labore sit enim veniam. Commodo consectetur eiusmod deserunt nisi quis ipsum labore anim ex.\r\n",
+    "tags": [
+      "sit",
+      "eiusmod",
+      "pariatur",
+      "culpa",
+      "velit"
+    ]
+  },
+  {
+    "_id": "56e69b8a0366a83523a44aba",
+    "index": 53,
+    "isStocked": true,
+    "price": 302.22,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 52,
+    "color": "brown",
+    "name": "et incididunt",
+    "about": "Tempor in enim consectetur labore irure officia. Ut occaecat consequat eiusmod minim. Proident dolor irure proident do occaecat pariatur consectetur sit nostrud dolore nulla adipisicing. Adipisicing nostrud irure excepteur culpa aute eiusmod non ut do irure ad eiusmod adipisicing consequat.\r\n",
+    "tags": [
+      "aliqua",
+      "nostrud",
+      "laboris",
+      "consequat",
+      "ad"
+    ]
+  },
+  {
+    "_id": "56e69b8acd6d9b94114b9c23",
+    "index": 54,
+    "isStocked": true,
+    "price": 256.78,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 64,
+    "color": "blue",
+    "name": "consectetur anim",
+    "about": "Labore amet esse in ea laboris et elit ex consequat do ea nulla aliqua. Dolore magna esse magna eiusmod aliquip. Cupidatat cillum qui sunt consectetur laboris voluptate officia nisi veniam veniam. Proident aliqua non exercitation sit anim laboris tempor irure consequat tempor sunt. Ipsum enim nulla magna eu adipisicing exercitation elit aute ex dolore enim tempor ut. Dolor labore sint adipisicing officia. Ea magna eu voluptate incididunt adipisicing cupidatat ex occaecat consectetur excepteur irure enim.\r\n",
+    "tags": [
+      "amet",
+      "do",
+      "deserunt",
+      "enim",
+      "excepteur"
+    ]
+  },
+  {
+    "_id": "56e69b8a15d18ff2614f6be8",
+    "index": 55,
+    "isStocked": false,
+    "price": 382.26,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 62,
+    "color": "purple",
+    "name": "velit et",
+    "about": "Dolore sit proident id ut ipsum fugiat velit nisi eu elit sunt. Laborum pariatur et labore ut ullamco aute ad magna nisi et cupidatat duis exercitation. Est enim ex incididunt quis sunt.\r\n",
+    "tags": [
+      "magna",
+      "do",
+      "fugiat",
+      "ut",
+      "officia"
+    ]
+  },
+  {
+    "_id": "56e69b8a96c1271805aec8df",
+    "index": 56,
+    "isStocked": false,
+    "price": 294.1,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 38,
+    "color": "brown",
+    "name": "occaecat voluptate",
+    "about": "Sint irure aliquip magna mollit ipsum. Consequat irure anim id excepteur ipsum non pariatur nulla amet irure est id. Sunt excepteur adipisicing sit veniam elit. Pariatur occaecat nulla ipsum reprehenderit consectetur id elit aliqua tempor velit magna. Laboris voluptate ut proident cupidatat proident magna quis reprehenderit laboris.\r\n",
+    "tags": [
+      "labore",
+      "nisi",
+      "consequat",
+      "laborum",
+      "commodo"
+    ]
+  },
+  {
+    "_id": "56e69b8a37db7e17510067ae",
+    "index": 57,
+    "isStocked": true,
+    "price": 339.1,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 9,
+    "color": "brown",
+    "name": "do ullamco",
+    "about": "Ex elit tempor et ad qui sit incididunt dolor laboris pariatur eu sunt do. Veniam velit minim magna dolor ad nulla. Exercitation esse labore ad et ut non id ut officia culpa anim in tempor reprehenderit. Aliquip ut reprehenderit reprehenderit officia ad nostrud. Laborum laboris culpa consequat eu cillum.\r\n",
+    "tags": [
+      "aliqua",
+      "magna",
+      "duis",
+      "qui",
+      "amet"
+    ]
+  },
+  {
+    "_id": "56e69b8a06c8156996dc03b8",
+    "index": 58,
+    "isStocked": true,
+    "price": 172.81,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 40,
+    "color": "green",
+    "name": "ea velit",
+    "about": "Incididunt ea et enim cupidatat sint deserunt commodo. Sunt sunt consectetur adipisicing duis reprehenderit nostrud qui veniam elit est dolore id. Velit ut culpa ullamco culpa aute sint id.\r\n",
+    "tags": [
+      "et",
+      "consectetur",
+      "consectetur",
+      "pariatur",
+      "proident"
+    ]
+  },
+  {
+    "_id": "56e69b8a79455cd8f8dbe6ba",
+    "index": 59,
+    "isStocked": false,
+    "price": 203.09,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 49,
+    "color": "red",
+    "name": "labore reprehenderit",
+    "about": "Eu pariatur sint anim nulla adipisicing anim est voluptate mollit adipisicing nisi anim esse mollit. Anim non labore ea officia Lorem anim amet irure laboris duis adipisicing do velit. Laboris ullamco ullamco occaecat ea irure.\r\n",
+    "tags": [
+      "quis",
+      "nisi",
+      "ullamco",
+      "tempor",
+      "dolor"
+    ]
+  },
+  {
+    "_id": "56e69b8ab9b04ffb9e6a3318",
+    "index": 60,
+    "isStocked": false,
+    "price": 283.39,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 8,
+    "color": "red",
+    "name": "qui est",
+    "about": "Ex eu velit commodo anim pariatur ea commodo sint. Officia culpa tempor id sunt commodo dolor nulla voluptate duis culpa voluptate. Officia nisi cillum occaecat laboris. Veniam ad consectetur occaecat pariatur tempor sunt ipsum. Culpa consectetur laborum labore Lorem sunt eu occaecat veniam elit officia ullamco dolore occaecat. Nostrud voluptate velit pariatur sit.\r\n",
+    "tags": [
+      "id",
+      "esse",
+      "amet",
+      "amet",
+      "do"
+    ]
+  },
+  {
+    "_id": "56e69b8ab29ef2e08f4ff2e2",
+    "index": 61,
+    "isStocked": true,
+    "price": 204.39,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 36,
+    "color": "brown",
+    "name": "excepteur sunt",
+    "about": "Nostrud est laborum ea nisi non laboris occaecat sint laborum voluptate nostrud sunt. Aute occaecat magna ullamco veniam commodo commodo ipsum duis exercitation. Consectetur labore velit ullamco elit adipisicing culpa officia.\r\n",
+    "tags": [
+      "dolor",
+      "do",
+      "Lorem",
+      "adipisicing",
+      "nisi"
+    ]
+  },
+  {
+    "_id": "56e69b8a477ffc12640043b8",
+    "index": 62,
+    "isStocked": true,
+    "price": 281.34,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 86,
+    "color": "purple",
+    "name": "amet commodo",
+    "about": "Laboris excepteur duis exercitation Lorem minim ex sint magna consectetur qui pariatur Lorem. Exercitation consequat culpa reprehenderit cillum ullamco fugiat magna culpa in excepteur. Qui adipisicing laborum irure deserunt aute mollit non minim. Exercitation elit voluptate culpa nisi commodo velit reprehenderit do. Ex veniam id nisi fugiat excepteur magna mollit dolor eu proident anim.\r\n",
+    "tags": [
+      "veniam",
+      "occaecat",
+      "aliqua",
+      "qui",
+      "laborum"
+    ]
+  },
+  {
+    "_id": "56e69b8a2eb286821259e8f1",
+    "index": 63,
+    "isStocked": true,
+    "price": 340.13,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 38,
+    "color": "purple",
+    "name": "id in",
+    "about": "Veniam et id est enim est reprehenderit veniam exercitation dolore pariatur aliquip consectetur reprehenderit tempor. Reprehenderit proident duis aliquip enim aliqua voluptate nostrud proident labore esse. Nisi amet fugiat qui irure occaecat magna consequat Lorem non aliqua ipsum proident sint. Eiusmod labore proident sint culpa id. Ea officia dolore non aute ad eiusmod mollit velit nulla elit do ea.\r\n",
+    "tags": [
+      "sit",
+      "dolore",
+      "non",
+      "irure",
+      "adipisicing"
+    ]
+  },
+  {
+    "_id": "56e69b8af34fe944fc1591d3",
+    "index": 64,
+    "isStocked": false,
+    "price": 133.93,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 68,
+    "color": "blue",
+    "name": "amet tempor",
+    "about": "Minim ipsum amet sunt nisi non fugiat aliqua. Sint ex non eiusmod proident commodo laboris qui sunt mollit. Nostrud mollit reprehenderit non dolore qui aliquip voluptate in aliquip irure eiusmod tempor dolor exercitation. Minim Lorem incididunt consequat eu culpa.\r\n",
+    "tags": [
+      "irure",
+      "esse",
+      "aliqua",
+      "aliqua",
+      "ullamco"
+    ]
+  },
+  {
+    "_id": "56e69b8aa974add979aec2c7",
+    "index": 65,
+    "isStocked": true,
+    "price": 350.32,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 79,
+    "color": "brown",
+    "name": "ad excepteur",
+    "about": "Laboris culpa laborum do occaecat. Incididunt ut quis reprehenderit culpa ullamco pariatur laboris sit veniam reprehenderit est. Ullamco duis elit do nulla sit velit pariatur elit deserunt. Labore voluptate ut ipsum duis voluptate ut mollit adipisicing irure fugiat magna commodo. Ea do ea ut dolore minim nisi voluptate fugiat quis et elit amet esse. Ipsum non laborum voluptate ut occaecat duis id duis nulla voluptate. Et tempor ex esse nisi eiusmod duis commodo esse.\r\n",
+    "tags": [
+      "amet",
+      "ex",
+      "ullamco",
+      "fugiat",
+      "et"
+    ]
+  },
+  {
+    "_id": "56e69b8aac8e6f661b27ef2b",
+    "index": 66,
+    "isStocked": true,
+    "price": 221.95,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 71,
+    "color": "purple",
+    "name": "et nostrud",
+    "about": "Officia quis proident qui veniam est qui reprehenderit consequat fugiat occaecat consequat id sunt. Lorem dolore magna exercitation culpa fugiat eiusmod voluptate elit duis. Ipsum elit excepteur cillum anim voluptate. Ipsum consectetur ut eiusmod consequat dolor officia tempor. Laboris commodo aliqua et ipsum.\r\n",
+    "tags": [
+      "Lorem",
+      "proident",
+      "ex",
+      "et",
+      "elit"
+    ]
+  },
+  {
+    "_id": "56e69b8abcb67bb94e287665",
+    "index": 67,
+    "isStocked": true,
+    "price": 315.59,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 35,
+    "color": "purple",
+    "name": "ipsum dolor",
+    "about": "Cillum laboris veniam tempor sit eiusmod officia voluptate occaecat occaecat officia do dolore. Aute deserunt incididunt labore esse occaecat sit duis proident culpa. Do ipsum aute consectetur officia. Commodo Lorem ut ad nulla est consectetur commodo sit minim cillum ex enim. Aliquip ullamco eu irure cupidatat do id minim incididunt officia fugiat proident duis pariatur consequat. Eu deserunt commodo cillum enim magna labore occaecat dolore voluptate nostrud veniam excepteur qui deserunt. Laboris ut amet labore aliqua tempor do esse id id quis excepteur eu proident deserunt.\r\n",
+    "tags": [
+      "amet",
+      "ipsum",
+      "sunt",
+      "id",
+      "sit"
+    ]
+  },
+  {
+    "_id": "56e69b8aba5e8ae907162478",
+    "index": 68,
+    "isStocked": false,
+    "price": 329.8,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 29,
+    "color": "blue",
+    "name": "et minim",
+    "about": "Pariatur consequat magna velit quis laborum. Labore anim excepteur labore voluptate dolore duis laborum ullamco ad velit culpa cillum. Laborum mollit consectetur in ea est nostrud adipisicing pariatur id incididunt labore laborum nostrud minim. Aliqua sit culpa in ut cupidatat qui tempor nulla eiusmod reprehenderit exercitation. Aliquip occaecat laborum adipisicing elit duis anim eiusmod est. Labore velit ex velit ad Lorem minim ipsum dolore occaecat amet commodo tempor aliquip.\r\n",
+    "tags": [
+      "laboris",
+      "aute",
+      "consectetur",
+      "consequat",
+      "mollit"
+    ]
+  },
+  {
+    "_id": "56e69b8a7985d6565a946ed0",
+    "index": 69,
+    "isStocked": false,
+    "price": 233.66,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 80,
+    "color": "blue",
+    "name": "esse occaecat",
+    "about": "Aliquip aliqua pariatur fugiat cillum Lorem. Labore sint tempor eiusmod amet incididunt duis ex nisi. Qui adipisicing elit aliquip est.\r\n",
+    "tags": [
+      "commodo",
+      "do",
+      "ea",
+      "ut",
+      "cupidatat"
+    ]
+  },
+  {
+    "_id": "56e69b8a093c76f9f8cb9169",
+    "index": 70,
+    "isStocked": true,
+    "price": 209.01,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 15,
+    "color": "brown",
+    "name": "dolore magna",
+    "about": "Lorem eiusmod in ipsum nisi occaecat deserunt consequat aute minim. Ut anim aliqua commodo sint irure adipisicing cillum exercitation esse velit officia enim ea. Cupidatat adipisicing irure nostrud est dolore laboris nisi duis ea incididunt elit Lorem proident pariatur. Sint ex et laborum excepteur voluptate adipisicing ut fugiat pariatur minim esse ut nostrud. Pariatur laboris deserunt est qui quis labore sint nulla. Qui cupidatat nisi tempor amet dolore laboris excepteur ullamco incididunt Lorem id ut ex.\r\n",
+    "tags": [
+      "laboris",
+      "pariatur",
+      "irure",
+      "dolore",
+      "dolor"
+    ]
+  },
+  {
+    "_id": "56e69b8aeb0c71a847ab01f7",
+    "index": 71,
+    "isStocked": true,
+    "price": 256.02,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 7,
+    "color": "purple",
+    "name": "est tempor",
+    "about": "Lorem eu occaecat elit magna. Sunt minim do eu minim labore ullamco est qui. Velit ad eiusmod do ut anim dolore duis amet nulla. Occaecat est do ea duis Lorem quis excepteur laboris culpa velit eiusmod ut labore. Excepteur commodo officia incididunt sit consequat deserunt nulla qui ex amet in. Quis aliquip quis ut ea. Duis incididunt ea voluptate nulla incididunt esse commodo enim.\r\n",
+    "tags": [
+      "ullamco",
+      "consectetur",
+      "laborum",
+      "veniam",
+      "esse"
+    ]
+  },
+  {
+    "_id": "56e69b8aa50dd33cea521628",
+    "index": 72,
+    "isStocked": true,
+    "price": 387.58,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 32,
+    "color": "green",
+    "name": "dolor ut",
+    "about": "Deserunt irure qui excepteur esse exercitation non commodo id et officia velit magna esse ea. Quis velit ipsum ipsum velit laboris eiusmod nostrud sunt mollit veniam pariatur. Cupidatat ad veniam laborum quis cillum id cupidatat laborum dolor.\r\n",
+    "tags": [
+      "consequat",
+      "ipsum",
+      "officia",
+      "non",
+      "sint"
+    ]
+  },
+  {
+    "_id": "56e69b8af00e6bbb2c147146",
+    "index": 73,
+    "isStocked": true,
+    "price": 214.1,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 9,
+    "color": "red",
+    "name": "labore ea",
+    "about": "Est cillum velit ullamco minim est cupidatat elit ullamco officia labore proident Lorem. Aliqua id ex excepteur occaecat do. Exercitation Lorem ea eu consectetur occaecat quis non fugiat. Ex Lorem minim reprehenderit anim duis sunt laboris aute sit enim tempor nostrud reprehenderit laboris. Et do laborum deserunt laboris dolor.\r\n",
+    "tags": [
+      "fugiat",
+      "cillum",
+      "eiusmod",
+      "proident",
+      "Lorem"
+    ]
+  },
+  {
+    "_id": "56e69b8ae2d34117b3a8cf14",
+    "index": 74,
+    "isStocked": false,
+    "price": 245.91,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 3,
+    "color": "red",
+    "name": "consequat dolor",
+    "about": "Dolor aliquip mollit aliquip nostrud irure esse sit ex quis esse incididunt ullamco. Sit dolor duis fugiat nulla. Laborum exercitation labore sint esse.\r\n",
+    "tags": [
+      "velit",
+      "esse",
+      "sint",
+      "veniam",
+      "nulla"
+    ]
+  },
+  {
+    "_id": "56e69b8a79fcbc416c26f3b8",
+    "index": 75,
+    "isStocked": false,
+    "price": 230.42,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 0,
+    "color": "blue",
+    "name": "velit quis",
+    "about": "Cupidatat exercitation tempor sit dolor aliquip ullamco elit commodo voluptate nostrud et excepteur consectetur. Consequat sit reprehenderit consequat magna non non ea anim mollit anim sunt. Do pariatur magna velit in consequat. Magna laborum nisi consectetur sunt non laborum officia do.\r\n",
+    "tags": [
+      "velit",
+      "excepteur",
+      "enim",
+      "eiusmod",
+      "cillum"
+    ]
+  },
+  {
+    "_id": "56e69b8a82e5c168af849452",
+    "index": 76,
+    "isStocked": false,
+    "price": 267.11,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 23,
+    "color": "green",
+    "name": "adipisicing ad",
+    "about": "Reprehenderit velit commodo laboris qui culpa sunt. Duis nulla officia nisi aliquip in sunt exercitation sint minim deserunt do do magna. Est ad ex officia deserunt laboris anim voluptate officia nulla. Consequat sunt pariatur exercitation mollit voluptate.\r\n",
+    "tags": [
+      "anim",
+      "pariatur",
+      "consectetur",
+      "proident",
+      "elit"
+    ]
+  },
+  {
+    "_id": "56e69b8adb026406ddf49349",
+    "index": 77,
+    "isStocked": false,
+    "price": 248.88,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 33,
+    "color": "red",
+    "name": "mollit aliquip",
+    "about": "Eiusmod qui enim ex incididunt pariatur ullamco fugiat mollit incididunt dolor do elit. Dolore laboris tempor amet consequat nostrud qui eiusmod amet minim labore sunt ipsum ex. Laboris consequat consectetur nisi et deserunt esse eu consectetur est consequat ex. Dolor nisi mollit laboris sit sint laboris aliquip dolore. Voluptate officia ullamco esse dolore dolore. Culpa duis adipisicing est labore. Esse anim reprehenderit ea officia sunt cillum reprehenderit proident.\r\n",
+    "tags": [
+      "culpa",
+      "cillum",
+      "sint",
+      "amet",
+      "proident"
+    ]
+  },
+  {
+    "_id": "56e69b8ae2b70d318a90cbe5",
+    "index": 78,
+    "isStocked": true,
+    "price": 203.26,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 48,
+    "color": "red",
+    "name": "culpa ex",
+    "about": "Id qui qui Lorem magna est dolore nisi velit ea aliquip excepteur enim Lorem esse. Reprehenderit id ea consequat reprehenderit ullamco non reprehenderit cillum sint commodo nulla labore. Voluptate eu id minim magna ea cupidatat ad fugiat duis.\r\n",
+    "tags": [
+      "amet",
+      "aute",
+      "labore",
+      "enim",
+      "nisi"
+    ]
+  },
+  {
+    "_id": "56e69b8a40b7c9834b071a5c",
+    "index": 79,
+    "isStocked": false,
+    "price": 260.09,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 11,
+    "color": "blue",
+    "name": "laborum eu",
+    "about": "Culpa tempor aliqua et duis do est deserunt fugiat officia tempor quis mollit. Nisi magna do nulla excepteur occaecat Lorem aliqua dolor nulla sit consectetur. Ex magna consequat exercitation ipsum dolor ipsum esse exercitation culpa quis in duis excepteur incididunt.\r\n",
+    "tags": [
+      "exercitation",
+      "nisi",
+      "magna",
+      "deserunt",
+      "laboris"
+    ]
+  },
+  {
+    "_id": "56e69b8a082288e7e73df886",
+    "index": 80,
+    "isStocked": true,
+    "price": 230.69,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 3,
+    "color": "green",
+    "name": "qui nisi",
+    "about": "Laborum elit culpa tempor excepteur exercitation non eu commodo. Proident in voluptate culpa dolor anim sit nisi exercitation et laborum do. Sunt eu quis Lorem incididunt occaecat.\r\n",
+    "tags": [
+      "eu",
+      "esse",
+      "voluptate",
+      "nostrud",
+      "laborum"
+    ]
+  },
+  {
+    "_id": "56e69b8a71618b211367b512",
+    "index": 81,
+    "isStocked": true,
+    "price": 118.8,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 15,
+    "color": "green",
+    "name": "occaecat elit",
+    "about": "Minim eu labore duis consequat et. Quis anim nostrud aute do do officia cupidatat proident voluptate tempor sunt veniam proident duis. Commodo qui incididunt cupidatat ad in esse eu consequat proident.\r\n",
+    "tags": [
+      "ex",
+      "officia",
+      "eu",
+      "velit",
+      "quis"
+    ]
+  },
+  {
+    "_id": "56e69b8a217f22dca0fbcaf8",
+    "index": 82,
+    "isStocked": true,
+    "price": 224.91,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 19,
+    "color": "green",
+    "name": "quis adipisicing",
+    "about": "Nostrud esse est eiusmod minim velit ad deserunt dolor voluptate est eiusmod. In commodo exercitation sint aute aliqua ex dolore tempor consectetur ullamco. Ipsum adipisicing amet cillum cillum labore sunt. Officia ut reprehenderit sint ea non dolor pariatur eu deserunt. Commodo dolor deserunt exercitation ex commodo occaecat in magna et ut sint culpa. Sunt eiusmod incididunt consequat minim.\r\n",
+    "tags": [
+      "ipsum",
+      "commodo",
+      "minim",
+      "ex",
+      "elit"
+    ]
+  },
+  {
+    "_id": "56e69b8a0a41abfb3a5cfa8d",
+    "index": 83,
+    "isStocked": false,
+    "price": 198.98,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 64,
+    "color": "red",
+    "name": "id in",
+    "about": "Exercitation anim laboris mollit pariatur aliqua laborum deserunt eiusmod incididunt sunt labore irure mollit. Adipisicing elit ipsum qui aliqua nostrud ut. Eiusmod ut nostrud reprehenderit aliqua duis duis. Id consectetur reprehenderit commodo laborum nulla.\r\n",
+    "tags": [
+      "commodo",
+      "quis",
+      "magna",
+      "voluptate",
+      "dolore"
+    ]
+  },
+  {
+    "_id": "56e69b8a75be615ded8de3eb",
+    "index": 84,
+    "isStocked": false,
+    "price": 261.95,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 6,
+    "color": "brown",
+    "name": "nostrud deserunt",
+    "about": "Nisi sit minim nostrud culpa incididunt sunt nostrud ad exercitation labore exercitation in amet. Elit reprehenderit consequat fugiat deserunt adipisicing eiusmod commodo laborum adipisicing et fugiat. Nulla culpa aliqua dolore nulla et ex laborum aute laboris. Laborum veniam ea dolor commodo quis ad exercitation. Aliqua nulla elit magna magna non anim ullamco.\r\n",
+    "tags": [
+      "proident",
+      "enim",
+      "occaecat",
+      "dolore",
+      "elit"
+    ]
+  },
+  {
+    "_id": "56e69b8a1d99c23cfe94dbf6",
+    "index": 85,
+    "isStocked": true,
+    "price": 310.69,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 68,
+    "color": "green",
+    "name": "eiusmod laboris",
+    "about": "Cupidatat ullamco culpa dolore eu ut minim fugiat. Tempor mollit ad nostrud anim laborum dolor nulla eu anim culpa ex duis. Laboris nulla exercitation deserunt Lorem Lorem sit eu in mollit tempor cupidatat magna commodo pariatur. Qui proident veniam adipisicing eu tempor ea magna. Laboris consequat duis esse ullamco ut velit tempor ullamco non officia laborum est proident minim. Quis consequat nulla duis nulla quis ipsum labore veniam ut ut occaecat eu nisi anim.\r\n",
+    "tags": [
+      "aute",
+      "do",
+      "do",
+      "dolor",
+      "laboris"
+    ]
+  },
+  {
+    "_id": "56e69b8a2c954f07cf5166c5",
+    "index": 86,
+    "isStocked": true,
+    "price": 189.28,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 44,
+    "color": "red",
+    "name": "aliqua duis",
+    "about": "Anim non est labore aliqua est ex laborum cupidatat. Deserunt voluptate consequat cillum non aliquip exercitation magna et nisi ea ex sint. Ad excepteur dolor nostrud amet occaecat sunt in nulla. Dolore officia reprehenderit aliqua occaecat voluptate eiusmod irure culpa magna ex laborum duis labore. In ex ullamco eiusmod adipisicing elit. Consequat eiusmod fugiat consequat voluptate non magna magna voluptate ex enim. Duis occaecat ut reprehenderit commodo Lorem ut sint consequat.\r\n",
+    "tags": [
+      "laboris",
+      "esse",
+      "ad",
+      "culpa",
+      "consectetur"
+    ]
+  },
+  {
+    "_id": "56e69b8a3493b2455723635a",
+    "index": 87,
+    "isStocked": true,
+    "price": 215.13,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 0,
+    "color": "blue",
+    "name": "mollit elit",
+    "about": "Adipisicing sit do enim est adipisicing. Et aliqua ipsum id consectetur enim proident. Veniam duis anim eu est officia. Ad officia consectetur sint magna sint ullamco fugiat veniam. Ipsum mollit aute ex voluptate reprehenderit.\r\n",
+    "tags": [
+      "cupidatat",
+      "voluptate",
+      "minim",
+      "id",
+      "reprehenderit"
+    ]
+  },
+  {
+    "_id": "56e69b8a66d0bbaa3bb5314d",
+    "index": 88,
+    "isStocked": true,
+    "price": 139.09,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 68,
+    "color": "brown",
+    "name": "cillum anim",
+    "about": "Irure ut velit esse ea commodo anim. Dolor reprehenderit in nulla qui officia non aliqua nostrud. Aliquip enim incididunt et consectetur enim Lorem deserunt aliquip est commodo.\r\n",
+    "tags": [
+      "amet",
+      "ullamco",
+      "id",
+      "eiusmod",
+      "ullamco"
+    ]
+  },
+  {
+    "_id": "56e69b8a72ff57b91e6ba68e",
+    "index": 89,
+    "isStocked": true,
+    "price": 101.06,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 6,
+    "color": "purple",
+    "name": "pariatur deserunt",
+    "about": "Quis est cillum laboris pariatur dolore et ut est Lorem magna consequat. Aliquip proident commodo nisi magna esse laboris sunt occaecat duis nisi Lorem adipisicing officia. Proident labore officia nostrud pariatur laborum ex. Nostrud laborum veniam sit irure cillum velit duis. Labore Lorem nisi consequat mollit dolor reprehenderit enim officia quis elit ex et id.\r\n",
+    "tags": [
+      "ex",
+      "esse",
+      "ex",
+      "laboris",
+      "aliquip"
+    ]
+  },
+  {
+    "_id": "56e69b8a9ec689d561d9bb46",
+    "index": 90,
+    "isStocked": false,
+    "price": 203.77,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 21,
+    "color": "green",
+    "name": "cupidatat magna",
+    "about": "Voluptate commodo tempor sit adipisicing esse tempor tempor voluptate mollit. Enim non deserunt et Lorem tempor. Laborum amet in occaecat laboris velit sint aliquip. Esse eu consectetur irure sit cillum enim ullamco excepteur proident consequat.\r\n",
+    "tags": [
+      "sit",
+      "eiusmod",
+      "voluptate",
+      "adipisicing",
+      "nostrud"
+    ]
+  },
+  {
+    "_id": "56e69b8ab1b391b0baa47e68",
+    "index": 91,
+    "isStocked": false,
+    "price": 213.94,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 59,
+    "color": "brown",
+    "name": "anim dolore",
+    "about": "Duis mollit magna irure incididunt officia aliquip adipisicing amet fugiat deserunt dolor officia sit nulla. Et nulla non ut commodo aliqua laborum occaecat pariatur officia sit excepteur exercitation enim pariatur. Cupidatat enim fugiat nulla fugiat magna ut ad laborum ex commodo voluptate culpa elit.\r\n",
+    "tags": [
+      "ullamco",
+      "non",
+      "in",
+      "pariatur",
+      "magna"
+    ]
+  },
+  {
+    "_id": "56e69b8aadfccc68db2e772e",
+    "index": 92,
+    "isStocked": false,
+    "price": 284.68,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 33,
+    "color": "brown",
+    "name": "excepteur nulla",
+    "about": "Ex ut eiusmod est eu ad mollit amet deserunt labore laboris est cupidatat. Tempor amet elit ipsum excepteur. Exercitation Lorem in aliqua consequat amet duis incididunt dolor incididunt reprehenderit laboris sit cupidatat ipsum. Ad est aute cupidatat tempor nisi velit reprehenderit voluptate pariatur consequat Lorem magna ad.\r\n",
+    "tags": [
+      "sunt",
+      "qui",
+      "cillum",
+      "adipisicing",
+      "culpa"
+    ]
+  },
+  {
+    "_id": "56e69b8ac531ed7033f5fcf6",
+    "index": 93,
+    "isStocked": true,
+    "price": 131.75,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 78,
+    "color": "brown",
+    "name": "veniam ad",
+    "about": "Commodo nostrud exercitation sit pariatur mollit anim. Culpa tempor officia enim magna et velit eu enim do. Ipsum mollit Lorem veniam occaecat cillum nisi ex cillum laborum eu. Esse occaecat excepteur ut sunt occaecat elit. Quis tempor consectetur est non mollit voluptate in culpa enim et aute culpa. Cupidatat commodo voluptate eiusmod anim aliqua sint ex consequat officia esse.\r\n",
+    "tags": [
+      "aliqua",
+      "irure",
+      "ad",
+      "anim",
+      "non"
+    ]
+  },
+  {
+    "_id": "56e69b8abe9cb07b9e652fa4",
+    "index": 94,
+    "isStocked": true,
+    "price": 265.05,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 31,
+    "color": "blue",
+    "name": "esse do",
+    "about": "Duis exercitation eu ut culpa adipisicing nulla et pariatur cupidatat sit sit. Mollit laboris cupidatat dolore anim ipsum enim nisi magna quis qui aute ut quis. Ad dolor ea officia in est proident ea occaecat nulla irure culpa consectetur. Aliquip minim ipsum aliquip mollit nulla nulla. Culpa incididunt do sint elit mollit minim laborum. Eiusmod ea laboris magna ipsum voluptate amet dolore enim labore nulla tempor commodo.\r\n",
+    "tags": [
+      "amet",
+      "minim",
+      "aliquip",
+      "id",
+      "non"
+    ]
+  },
+  {
+    "_id": "56e69b8a5f0c7ec815626e7f",
+    "index": 95,
+    "isStocked": false,
+    "price": 399.38,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 16,
+    "color": "red",
+    "name": "do deserunt",
+    "about": "Eu voluptate irure eu et cillum ea culpa do nisi commodo. Non laborum laborum exercitation laboris veniam fugiat nulla reprehenderit ipsum sint adipisicing. Minim ipsum id est duis consectetur nostrud amet. Consectetur fugiat qui labore laborum sint ipsum ullamco quis duis est sint. Consectetur nisi Lorem nisi deserunt qui consectetur mollit.\r\n",
+    "tags": [
+      "ad",
+      "ut",
+      "nulla",
+      "laborum",
+      "duis"
+    ]
+  },
+  {
+    "_id": "56e69b8a1f25e381ee5179df",
+    "index": 96,
+    "isStocked": false,
+    "price": 337.4,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 99,
+    "color": "red",
+    "name": "nostrud incididunt",
+    "about": "Ut et irure pariatur dolore incididunt voluptate Lorem sint ex cupidatat officia consequat cupidatat. Exercitation in amet labore proident magna est. Ullamco proident ut irure cupidatat reprehenderit incididunt ut. Et nisi amet qui mollit irure sint magna nisi quis proident enim deserunt nulla irure. Ut officia do aute proident aute sint mollit amet quis nostrud qui.\r\n",
+    "tags": [
+      "elit",
+      "irure",
+      "amet",
+      "labore",
+      "minim"
+    ]
+  },
+  {
+    "_id": "56e69b8ab9f2a58bcc4c4c0b",
+    "index": 97,
+    "isStocked": true,
+    "price": 324.98,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 33,
+    "color": "blue",
+    "name": "voluptate nisi",
+    "about": "Nulla fugiat ipsum ut eiusmod nulla dolor labore. Commodo magna ea cupidatat dolor ullamco qui esse eu id minim dolor qui ea. Elit consequat nisi aute commodo aliquip pariatur. Minim occaecat aliqua deserunt cupidatat aliqua ad aliquip enim voluptate laborum consectetur.\r\n",
+    "tags": [
+      "cupidatat",
+      "tempor",
+      "nulla",
+      "non",
+      "veniam"
+    ]
+  },
+  {
+    "_id": "56e69b8ada4f1a55acc41307",
+    "index": 98,
+    "isStocked": true,
+    "price": 223.39,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 60,
+    "color": "blue",
+    "name": "occaecat anim",
+    "about": "Non est velit ex Lorem occaecat cupidatat reprehenderit. Proident duis incididunt id Lorem deserunt. Proident proident in nostrud tempor deserunt duis qui culpa quis amet ut culpa ipsum aute. Do ea incididunt culpa est anim cillum tempor culpa anim est magna consequat nisi enim. Culpa id amet qui in eu eu nulla aliqua. Eu elit labore nisi ipsum est anim sint est ex Lorem qui consectetur est.\r\n",
+    "tags": [
+      "sunt",
+      "eu",
+      "et",
+      "aliqua",
+      "Lorem"
+    ]
+  },
+  {
+    "_id": "56e69b8aee19dc69fe1cbcff",
+    "index": 99,
+    "isStocked": false,
+    "price": 306.72,
+    "image": "http://placehold.it/128x128",
+    "effectiveness": 38,
+    "color": "blue",
+    "name": "minim velit",
+    "about": "Cillum proident elit adipisicing sint ut nulla elit cupidatat pariatur aute qui sint. Aute laboris ea et cillum fugiat culpa consectetur elit. Culpa reprehenderit ad sit culpa ad ut quis elit id proident nulla. Reprehenderit exercitation Lorem dolor tempor cillum. Deserunt eiusmod pariatur et ut occaecat aute nisi cillum. Officia nostrud eiusmod exercitation in ullamco voluptate excepteur ad excepteur. Ipsum quis ea aute excepteur adipisicing cillum reprehenderit sint nulla exercitation consequat aute cillum do.\r\n",
+    "tags": [
+      "ex",
+      "do",
+      "consequat",
+      "cillum",
+      "enim"
+    ]
+  }
+]
