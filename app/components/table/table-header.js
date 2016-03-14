@@ -2,7 +2,7 @@ import React from 'react';
 
 class TableHeader extends React.Component{
   render() {
-    return <th>gf</th>;
+    return <th>{this.props.cellData}</th>;
   }
 }
 

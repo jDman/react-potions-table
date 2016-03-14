@@ -4,10 +4,11 @@ import TableRow from './table-row';
 class Table extends React.Component {
   render() {
     return (
-      <table>
+      <table className="table table-striped table-responsive">
         <thead>
           <TableRow type="header" />
         </thead>
+
         <tbody>
         {
           this.props.list.map(potion => {
