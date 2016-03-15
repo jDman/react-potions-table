@@ -1,7 +1,11 @@
 import React from 'react';
+import * as _ from 'underscore';
 
 import Table from './components/table/table';
 import TableRow from './components/table/table-row';
+import PrevBtn from './components/buttons/previous';
+import NextBtn from './components/buttons/next';
+import Search from './components/search/search';
 
 import Potions from './collections/potions';
 
@@ -11,7 +15,8 @@ class App extends React.Component {
   constructor() {
     super();
     this.state = {
-      potions: []
+      potions: [],
+      potionList: []
     }
   }
 
@@ -24,9 +29,24 @@ class App extends React.Component {
           potionsList.push(potion.attributes);
         });
 
-        this.setState({potions: potionsList});
+        this.setState({
+          potions: potionsList,
+          potionList: potionsList
+        });
       }
     });
+  }
+
+  updateResults(input) {
+    let filtered = [];
+
+    _.filter(this.state.potions, (potion) => {
+      if (potion.name.toLowerCase().indexOf(input.toLowerCase()) !== -1) {
+        filtered.push(potion);
+      }
+    });
+
+    this.setState({potionList: filtered})
   }
 
   render() {
@@ -34,15 +54,20 @@ class App extends React.Component {
       <div className='container'>
         <h1>Potions</h1>
 
-        <Table list={this.state.potions}>
+        <Search updateResults={this.updateResults.bind(this)}/>
+
+        <Table list={this.state.potionList}>
           {
-            this.state.potions.map(potion => {
+            this.state.potionList.map(potion => {
               return <p key={potion._id}>{potion.name}</p>
             })
           }
         </Table>
 
-
+        <div>
+          <PrevBtn />
+          <NextBtn />
+        </div>
       </div>
     );
   }
