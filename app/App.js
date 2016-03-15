@@ -6,6 +6,7 @@ import TableRow from './components/table/table-row';
 import PrevBtn from './components/buttons/previous';
 import NextBtn from './components/buttons/next';
 import Search from './components/search/search';
+import Pagination from './components/pagination/pagination';
 
 import Potions from './collections/potions';
 
@@ -16,22 +17,38 @@ class App extends React.Component {
     super();
     this.state = {
       potions: [],
-      potionList: []
+      potionList: [],
+      pages: {
+        perPage: [10, 25, 50],
+        index: null,
+        page: []
+      }
     }
   }
 
   componentDidMount() {
     potionCollection.fetch({
       success: potions => {
-        let potionsList = [];
+        let potionsList = []
+          , resultsPerPage = this.state.pages.perPage[0]
+          , pageArray = [];
 
         potions.models.map(potion => {
           potionsList.push(potion.attributes);
         });
 
+        for (var i = 0; i < potionsList.length; i+=resultsPerPage) {
+          pageArray.push(potionsList.slice(i, i+resultsPerPage));
+        }
+
         this.setState({
           potions: potionsList,
-          potionList: potionsList
+          potionList: pageArray[0],
+          pages: {
+            perPage: this.state.pages.perPage,
+            index: 1,
+            page: pageArray
+          }
         });
       }
     });
@@ -49,21 +66,25 @@ class App extends React.Component {
     this.setState({potionList: filtered})
   }
 
+  updatePage(input) {
+    console.log(input);
+  }
+
   render() {
+    console.log(this.state);
     return (
       <div className='container'>
         <h1>Potions</h1>
 
-        <Search updateResults={this.updateResults.bind(this)}/>
+        <Search updateResults={this.updateResults.bind(this)} />
 
-        <Table list={this.state.potionList}>
-          {
-            this.state.potionList.map(potion => {
-              return <p key={potion._id}>{potion.name}</p>
-            })
-          }
-        </Table>
+        <Table list={this.state.potionList}
+               resultsPerPage={this.state.pages.perPage}
+        />
 
+      <Pagination updatePage={this.updatePage.bind(this)}
+                  page={this.state.pages.index}
+      />
         <div>
           <PrevBtn />
           <NextBtn />
