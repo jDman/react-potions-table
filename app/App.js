@@ -55,8 +55,9 @@ class App extends React.Component {
   searchResult(input) {
     let list = []
       , pagesArray = []
+      , potions = this.state.potions
       , index = this.state.pages.index
-      , results = this.state.pages.perPage;
+      , results = parseInt(this.state.pages.perPage, 10);
 
     _.filter(this.state.potions, (potion) => {
       if (potion.name.toLowerCase().indexOf(input.toLowerCase()) !== -1) {
@@ -67,7 +68,7 @@ class App extends React.Component {
     pagesArray = this.splitResults(list, results);
 
     this.setState({
-      potionList: pagesArray[0],
+      potionList: pagesArray[index-1],
       pages: {
         perPage: this.state.pages.perPage,
         index: index,
@@ -78,11 +79,12 @@ class App extends React.Component {
 
   splitResults(list, results) {
     let newArray = []
+      , items = parseInt(results, 10)
       , listLength = list.length;
 
-    if (listLength >= results) {
-      for (var i = 0; i < listLength; i+=results) {
-        newArray.push(list.slice(i, i+results));
+    if (listLength >= items) {
+      for (var i = 0; i < listLength; i+=items) {
+        newArray.push(list.slice(i, i+items));
       }
 
       return newArray;
@@ -92,8 +94,24 @@ class App extends React.Component {
   }
 
   updateResultsPerPage(results) {
-    console.log(this.state);
-    console.log(results);
+    let index = this.state.pages.index
+      , pagesArray
+      , perPage = parseInt(results, 10)
+      , potions = this.state.potions;
+
+    pagesArray = this.splitResults(potions, perPage);
+
+    this.setState({
+      potions: potions,
+      potionList: pagesArray[index-1],
+      pages: {
+        perPage: perPage,
+        index: index,
+        page: pagesArray
+      }
+    });
+
+
   }
 
   render() {
