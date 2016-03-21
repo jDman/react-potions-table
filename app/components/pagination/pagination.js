@@ -6,7 +6,7 @@ class Pagination extends React.Component {
   }
 
   handleChange(event) {
-    this.props.updatePage(event.target.value);
+    this.props.updateResultsPerPage(event.target.value);
   }
 
   render() {

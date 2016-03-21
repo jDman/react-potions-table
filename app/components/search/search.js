@@ -6,7 +6,7 @@ class Search extends React.Component {
   }
 
   handleChange(event) {
-    this.props.updateResults(this.refs.nameInput.value);
+    this.props.searchResult(this.refs.nameInput.value);
   }
 
   render() {

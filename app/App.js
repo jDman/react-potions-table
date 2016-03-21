@@ -37,9 +37,7 @@ class App extends React.Component {
           potionsList.push(potion.attributes);
         });
 
-        for (var i = 0; i < potionsList.length; i+=resultsPerPage) {
-          pageArray.push(potionsList.slice(i, i+resultsPerPage));
-        }
+        pageArray = this.splitResults(potionsList, resultsPerPage)
 
         this.setState({
           potions: potionsList,
@@ -54,7 +52,7 @@ class App extends React.Component {
     });
   }
 
-  updateResults(input) {
+  searchResult(input) {
     let filtered = [];
 
     _.filter(this.state.potions, (potion) => {
@@ -66,23 +64,31 @@ class App extends React.Component {
     this.setState({potionList: filtered})
   }
 
-  updatePage(input) {
-    console.log(input);
+  splitResults(list, results) {
+    let newArray = [];
+    for (var i = 0; i < list.length; i+=results) {
+      newArray.push(list.slice(i, i+results));
+    }
+
+    return newArray;
+  }
+
+  updateResultsPerPage(results) {
+    console.log(results);
   }
 
   render() {
-    console.log(this.state);
     return (
       <div className='container'>
         <h1>Potions</h1>
 
-        <Search updateResults={this.updateResults.bind(this)} />
+        <Search searchResult={this.searchResult.bind(this)} />
 
         <Table list={this.state.potionList}
                resultsPerPage={this.state.pages.perPage}
         />
 
-      <Pagination updatePage={this.updatePage.bind(this)}
+      <Pagination updateResultsPerPage={this.updateResultsPerPage.bind(this)}
                   page={this.state.pages.index}
       />
         <div>
