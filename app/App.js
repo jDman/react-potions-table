@@ -19,7 +19,7 @@ class App extends React.Component {
       potions: [],
       potionList: [],
       pages: {
-        perPage: [10, 25, 50],
+        perPage: 10,
         index: null,
         page: []
       }
@@ -30,22 +30,22 @@ class App extends React.Component {
     potionCollection.fetch({
       success: potions => {
         let potionsList = []
-          , resultsPerPage = this.state.pages.perPage[0]
-          , pageArray = [];
+          , resultsPerPage = this.state.pages.perPage
+          , pagesArray = [];
 
         potions.models.map(potion => {
           potionsList.push(potion.attributes);
         });
 
-        pageArray = this.splitResults(potionsList, resultsPerPage)
+        pagesArray = this.splitResults(potionsList, resultsPerPage)
 
         this.setState({
           potions: potionsList,
-          potionList: pageArray[0],
+          potionList: pagesArray[0],
           pages: {
             perPage: this.state.pages.perPage,
             index: 1,
-            page: pageArray
+            page: pagesArray
           }
         });
       }
@@ -53,27 +53,46 @@ class App extends React.Component {
   }
 
   searchResult(input) {
-    let filtered = [];
+    let list = []
+      , pagesArray = []
+      , index = this.state.pages.index
+      , results = this.state.pages.perPage;
 
     _.filter(this.state.potions, (potion) => {
       if (potion.name.toLowerCase().indexOf(input.toLowerCase()) !== -1) {
-        filtered.push(potion);
+        list.push(potion);
       }
     });
 
-    this.setState({potionList: filtered})
+    pagesArray = this.splitResults(list, results);
+
+    this.setState({
+      potionList: pagesArray[0],
+      pages: {
+        perPage: this.state.pages.perPage,
+        index: index,
+        page: pagesArray
+      }
+    });
   }
 
   splitResults(list, results) {
-    let newArray = [];
-    for (var i = 0; i < list.length; i+=results) {
-      newArray.push(list.slice(i, i+results));
-    }
+    let newArray = []
+      , listLength = list.length;
 
-    return newArray;
+    if (listLength >= results) {
+      for (var i = 0; i < listLength; i+=results) {
+        newArray.push(list.slice(i, i+results));
+      }
+
+      return newArray;
+    } else {
+      return [list];
+    }
   }
 
   updateResultsPerPage(results) {
+    console.log(this.state);
     console.log(results);
   }
 
