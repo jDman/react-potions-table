@@ -93,6 +93,7 @@ class App extends React.Component {
     }
   }
 
+  // TODO: refactor function
   updateResultsPerPage(results) {
     let index = this.state.pages.index
       , pagesArray
@@ -110,8 +111,6 @@ class App extends React.Component {
         page: pagesArray
       }
     });
-
-
   }
 
   render() {
