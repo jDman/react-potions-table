@@ -2,6 +2,10 @@ import React from 'react';
 import TableRow from './table-row';
 
 class Table extends React.Component {
+  constructor() {
+    super();
+  }
+
   render() {
     return (
       <table className="table table-striped table-responsive">

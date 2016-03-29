@@ -103,12 +103,33 @@ class App extends React.Component {
   }
 
   nextPage() {
+    let index = this.state.pages.index + 1
+      , pagesArray = this.state.potionList
+      , perPage = this.state.pages.perPage
+      , potions = this.state.potions;
 
-    console.log('next page');
+    pagesArray = this.splitResults(potions, perPage);
+
+    if (index > (potions.length / perPage)) {
+      index = (potions.length / perPage);
+    }
+
+    this.handleState(index, potions, pagesArray, perPage);
   }
 
   prevPage() {
-    console.log('prev page');
+    let index = this.state.pages.index - 1
+      , pagesArray = this.state.potionList
+      , perPage = this.state.pages.perPage
+      , potions = this.state.potions;
+
+    pagesArray = this.splitResults(potions, perPage);
+
+    if (index <= 0) {
+      index = 1;
+    }
+
+    this.handleState(index, potions, pagesArray, perPage);
   }
 
   render() {
