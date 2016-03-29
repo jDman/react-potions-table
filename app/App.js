@@ -91,7 +91,6 @@ class App extends React.Component {
     }
   }
 
-  // TODO: refactor function
   updateResultsPerPage(results) {
     let index = this.state.pages.index
       , pagesArray
@@ -99,7 +98,6 @@ class App extends React.Component {
       , potions = this.state.potions;
 
     pagesArray = this.splitResults(potions, perPage);
-
 
     this.handleState(index, potions, pagesArray, perPage);
   }
