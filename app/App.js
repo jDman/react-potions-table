@@ -113,7 +113,23 @@ class App extends React.Component {
     });
   }
 
+  nextPage() {
+    console.log('next page');
+  }
+
+  prevPage() {
+    console.log('prev page');
+  }
+
   render() {
+    let prevBtn = <span></span>
+      , nextBtn = <span></span>;
+
+    if (this.state.potions.length > this.state.pages.perPage) {
+      prevBtn = <PrevBtn prevPage={this.prevPage.bind(this)}/>;
+      nextBtn = <NextBtn nextPage={this.nextPage.bind(this)}/>;
+    }
+
     return (
       <div className='container'>
         <h1>Potions</h1>
@@ -124,13 +140,11 @@ class App extends React.Component {
                resultsPerPage={this.state.pages.perPage}
         />
 
-      <Pagination updateResultsPerPage={this.updateResultsPerPage.bind(this)}
-                  page={this.state.pages.index}
-      />
-        <div>
-          <PrevBtn />
-          <NextBtn />
-        </div>
+        <Pagination updateResultsPerPage={this.updateResultsPerPage.bind(this)}
+                    page={this.state.pages.index}
+        />
+
+        <div>{prevBtn} {nextBtn}</div>
       </div>
     );
   }
