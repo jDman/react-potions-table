@@ -39,15 +39,20 @@ class App extends React.Component {
 
         pagesArray = this.splitResults(potionsList, resultsPerPage)
 
-        this.setState({
-          potions: potionsList,
-          potionList: pagesArray[0],
-          pages: {
-            perPage: this.state.pages.perPage,
-            index: 1,
-            page: pagesArray
-          }
-        });
+
+        this.handleState(1, potionsList, pagesArray, this.state.pages.perPage);
+      }
+    });
+  }
+
+  handleState(index, list, pageArray, page) {
+    this.setState({
+      potions: list,
+      potionList: pageArray[index-1],
+      pages: {
+        perPage: page,
+        index: index,
+        page: pageArray
       }
     });
   }
@@ -67,14 +72,7 @@ class App extends React.Component {
 
     pagesArray = this.splitResults(list, results);
 
-    this.setState({
-      potionList: pagesArray[index-1],
-      pages: {
-        perPage: this.state.pages.perPage,
-        index: index,
-        page: pagesArray
-      }
-    });
+    this.handleState(index, potions, pagesArray, this.state.pages.perPage);
   }
 
   splitResults(list, results) {
@@ -102,18 +100,12 @@ class App extends React.Component {
 
     pagesArray = this.splitResults(potions, perPage);
 
-    this.setState({
-      potions: potions,
-      potionList: pagesArray[index-1],
-      pages: {
-        perPage: perPage,
-        index: index,
-        page: pagesArray
-      }
-    });
+
+    this.handleState(index, potions, pagesArray, perPage);
   }
 
   nextPage() {
+
     console.log('next page');
   }
 
