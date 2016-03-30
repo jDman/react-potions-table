@@ -44,9 +44,12 @@ class App extends React.Component {
   handleState(index, list, pageArray, results) {
     let perPage = parseInt(results, 10);
 
-    pageArray = this.splitResults(pageArray, perPage);
+    if (Number.isNaN(perPage)) {
+      perPage = this.state.potions.length;
+      index = 1;
+    };
 
-    console.log(pageArray);
+    pageArray = this.splitResults(pageArray, perPage);
 
     this.setState({
       potions: list,
@@ -68,7 +71,7 @@ class App extends React.Component {
     _.filter(potions, (potion) => {
       if (potion.name.toLowerCase().indexOf(input.toLowerCase()) !== -1) {
         list.push(potion);
-      } 
+      }
     });
 
     this.handleState(index, potions, list, results);
@@ -82,7 +85,6 @@ class App extends React.Component {
     for (var i = 0; i < listLength; i+=items) {
       newArray.push(list.slice(i, i+items));
     }
-    console.log(newArray);
 
     return newArray;
   }
@@ -131,19 +133,23 @@ class App extends React.Component {
 
     return (
       <div className='container'>
-        <h1>Potions</h1>
+        <div className="row">
+          <div className="col-md-12">
+            <h1>Potions</h1>
 
-        <Search searchResult={this.searchResult.bind(this)} />
+            <Search searchResult={this.searchResult.bind(this)} />
 
-        <Table list={this.state.potionList}
-               resultsPerPage={this.state.pages.perPage}
-        />
+            <Table list={this.state.potionList}
+                   resultsPerPage={this.state.pages.perPage}
+            />
 
-        <Pagination updateResultsPerPage={this.updateResultsPerPage.bind(this)}
-                    page={this.state.pages.index}
-        />
+            <Pagination updateResultsPerPage={this.updateResultsPerPage.bind(this)}
+                        page={this.state.pages.index}
+            />
 
-        <div>{prevBtn} {nextBtn}</div>
+            <div className="row group">{prevBtn} {nextBtn}</div>
+          </div>
+        </div>
       </div>
     );
   }

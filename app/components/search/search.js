@@ -11,11 +11,15 @@ class Search extends React.Component {
 
   render() {
     return (
-      <div>
-        Search by name: <input type="text"
-                               onChange={this.handleChange.bind(this)}
-                               ref="nameInput"/>
-      </div>
+      <form className="col-sm-6">
+        <div className="form-group">
+          <label>Search by name: </label>
+          <input type="text"
+                 className="form-control"
+                 onChange={this.handleChange.bind(this)}
+                 ref="nameInput"/>
+        </div>
+      </form>
     );
   }
 }
