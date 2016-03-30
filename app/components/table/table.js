@@ -7,6 +7,10 @@ class Table extends React.Component {
   }
 
   render() {
+    let noData = {
+      about: 'No potions found!'
+    }
+
     return (
       <table className="table table-striped table-responsive">
         <thead>
@@ -15,9 +19,11 @@ class Table extends React.Component {
 
         <tbody>
         {
+          this.props.list ?
           this.props.list.map(potion => {
-            return <TableRow key={potion._id} data={potion}/>;
-          })
+            return <TableRow key={potion._id} data={potion} />;
+          }) :
+          <TableRow data={noData} />
         }
         </tbody>
       </table>

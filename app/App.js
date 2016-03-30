@@ -30,27 +30,29 @@ class App extends React.Component {
     potionCollection.fetch({
       success: potions => {
         let potionsList = []
-          , resultsPerPage = this.state.pages.perPage
-          , pagesArray = [];
+          , resultsPerPage = this.state.pages.perPage;
 
         potions.models.map(potion => {
           potionsList.push(potion.attributes);
         });
 
-        pagesArray = this.splitResults(potionsList, resultsPerPage)
-
-
-        this.handleState(1, potionsList, pagesArray, this.state.pages.perPage);
+        this.handleState(1, potionsList, potionsList, resultsPerPage);
       }
     });
   }
 
-  handleState(index, list, pageArray, page) {
+  handleState(index, list, pageArray, results) {
+    let perPage = parseInt(results, 10);
+
+    pageArray = this.splitResults(pageArray, perPage);
+
+    console.log(pageArray);
+
     this.setState({
       potions: list,
       potionList: pageArray[index-1],
       pages: {
-        perPage: page,
+        perPage: results,
         index: index,
         page: pageArray
       }
@@ -59,47 +61,37 @@ class App extends React.Component {
 
   searchResult(input) {
     let list = []
-      , pagesArray = []
       , potions = this.state.potions
-      , index = this.state.pages.index
-      , results = parseInt(this.state.pages.perPage, 10);
+      , index = 1
+      , results = this.state.pages.perPage;
 
-    _.filter(this.state.potions, (potion) => {
+    _.filter(potions, (potion) => {
       if (potion.name.toLowerCase().indexOf(input.toLowerCase()) !== -1) {
         list.push(potion);
-      }
+      } 
     });
 
-    pagesArray = this.splitResults(list, results);
-
-    this.handleState(index, potions, pagesArray, this.state.pages.perPage);
+    this.handleState(index, potions, list, results);
   }
 
   splitResults(list, results) {
     let newArray = []
-      , items = parseInt(results, 10)
+      , items = results
       , listLength = list.length;
 
-    if (listLength >= items) {
-      for (var i = 0; i < listLength; i+=items) {
-        newArray.push(list.slice(i, i+items));
-      }
-
-      return newArray;
-    } else {
-      return [list];
+    for (var i = 0; i < listLength; i+=items) {
+      newArray.push(list.slice(i, i+items));
     }
+    console.log(newArray);
+
+    return newArray;
   }
 
   updateResultsPerPage(results) {
     let index = this.state.pages.index
-      , pagesArray
-      , perPage = parseInt(results, 10)
       , potions = this.state.potions;
 
-    pagesArray = this.splitResults(potions, perPage);
-
-    this.handleState(index, potions, pagesArray, perPage);
+    this.handleState(index, potions, potions, results);
   }
 
   nextPage() {
@@ -108,13 +100,11 @@ class App extends React.Component {
       , perPage = this.state.pages.perPage
       , potions = this.state.potions;
 
-    pagesArray = this.splitResults(potions, perPage);
-
     if (index > (potions.length / perPage)) {
       index = (potions.length / perPage);
     }
 
-    this.handleState(index, potions, pagesArray, perPage);
+    this.handleState(index, potions, potions, perPage);
   }
 
   prevPage() {
@@ -123,13 +113,11 @@ class App extends React.Component {
       , perPage = this.state.pages.perPage
       , potions = this.state.potions;
 
-    pagesArray = this.splitResults(potions, perPage);
-
     if (index <= 0) {
       index = 1;
     }
 
-    this.handleState(index, potions, pagesArray, perPage);
+    this.handleState(index, potions, potions, perPage);
   }
 
   render() {
