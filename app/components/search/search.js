@@ -5,13 +5,18 @@ class Search extends React.Component {
     super();
   }
 
+  handleSubmit(event) {
+    event.preventDefault();
+  }
+
   handleChange(event) {
     this.props.searchResult(this.refs.nameInput.value);
   }
 
   render() {
     return (
-      <form className="col-sm-6">
+      <form className="col-sm-6"
+            onSubmit={this.handleSubmit.bind(this)}>
         <div className="form-group">
           <label>Search by name: </label>
           <input type="text"
