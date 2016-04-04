@@ -3,10 +3,10 @@ import * as _ from 'underscore';
 
 import Table from './components/table/table';
 import TableRow from './components/table/table-row';
-import PrevBtn from './components/buttons/previous';
-import NextBtn from './components/buttons/next';
+
 import Search from './components/search/search';
 import Pagination from './components/pagination/pagination';
+import Pager from './components/pagination/pager';
 
 import Potions from './collections/potions';
 
@@ -123,12 +123,11 @@ class App extends React.Component {
   }
 
   render() {
-    let prevBtn = <span></span>
-      , nextBtn = <span></span>;
+    let pager = <span></span>;
 
     if (this.state.potions.length > this.state.pages.perPage) {
-      prevBtn = <PrevBtn prevPage={this.prevPage.bind(this)}/>;
-      nextBtn = <NextBtn nextPage={this.nextPage.bind(this)}/>;
+      pager = <Pager prevPage={this.prevPage.bind(this)}
+                     nextPage={this.nextPage.bind(this)} />
     }
 
     return (
@@ -147,7 +146,7 @@ class App extends React.Component {
                         page={this.state.pages.index}
             />
 
-            <div className="row group">{prevBtn} {nextBtn}</div>
+            <div className="row group">{pager}</div>
           </div>
         </div>
       </div>

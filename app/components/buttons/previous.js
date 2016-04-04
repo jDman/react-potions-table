@@ -6,15 +6,20 @@ class PrevBtn extends React.Component {
   }
 
   handleClick(event) {
+    event.preventDefault();
+
     this.props.prevPage();
   }
 
   render() {
     return (
-      <button className="btn btn-default"
-              type="button"
-              onClick={this.handleClick.bind(this)}
-              >Previous</button>
+      <li className="previous"
+          onClick={this.handleClick.bind(this)}>
+         <a href="#">
+           <span aria-hidden="true">&larr;</span>
+             Previous
+         </a>
+      </li>
     );
   }
 }

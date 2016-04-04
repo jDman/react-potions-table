@@ -6,15 +6,19 @@ class NextBtn extends React.Component {
   }
 
   handleClick(event) {
+    event.preventDefault();
+
     this.props.nextPage();
   }
 
   render() {
     return (
-      <button className="btn btn-default"
-              type="button"
-              onClick={this.handleClick.bind(this)}
-              >Next</button>
+      <li className="next"
+          onClick={this.handleClick.bind(this)}>
+        <a href="#">Next
+          <span aria-hidden="true">&rarr;</span>
+        </a>
+      </li>
     );
   }
 }

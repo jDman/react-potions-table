@@ -1,5 +1,5 @@
 import React from 'react';
-import PageSelect from './pageSelect';
+import PageSplit from './pageSplit';
 
 class Pagination extends React.Component {
   constructor() {
@@ -9,9 +9,9 @@ class Pagination extends React.Component {
   render() {
     return (
       <form className="form-inline">
-        <div className="form-group">
-          <PageSelect updateResultsPerPage={this.props.updateResultsPerPage}/>
+        <PageSplit updateResultsPerPage={this.props.updateResultsPerPage}/>
 
+        <div className="form-group">
           <span className="label label-default">page: {this.props.page}</span>
         </div>
       </form>
