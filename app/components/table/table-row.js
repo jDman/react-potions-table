@@ -32,4 +32,6 @@ class TableRow extends React.Component{
   }
 }
 
+TableRow.propTypes = { data: React.PropTypes.object };
+
 export default TableRow;

@@ -19,4 +19,9 @@ class Pager extends React.Component {
   }
 }
 
+Pager.propTypes = {
+  prevPage: React.PropTypes.func,
+  nextPage: React.PropTypes.func
+};
+
 export default Pager;

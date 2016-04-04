@@ -24,4 +24,6 @@ class PrevBtn extends React.Component {
   }
 }
 
+PrevBtn.propTypes = { prevPage: React.PropTypes.func };
+
 export default PrevBtn;

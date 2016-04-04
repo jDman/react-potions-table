@@ -31,4 +31,6 @@ class Table extends React.Component {
   }
 }
 
+Table.propTypes = { list: React.PropTypes.array };
+
 export default Table;

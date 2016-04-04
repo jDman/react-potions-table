@@ -19,4 +19,9 @@ class Pagination extends React.Component {
   }
 }
 
+Pagination.propTypes = {
+  updateResultsPerPage: React.PropTypes.func,
+  page: React.PropTypes.number
+ };
+
 export default Pagination;

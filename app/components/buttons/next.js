@@ -23,4 +23,6 @@ class NextBtn extends React.Component {
   }
 }
 
+NextBtn.propTypes = { nextPage: React.PropTypes.func };
+
 export default NextBtn;

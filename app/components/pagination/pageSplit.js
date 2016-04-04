@@ -26,4 +26,6 @@ class PageSplit extends React.Component {
   }
 }
 
+PageSplit.propTypes = { updateResultsPerPage: React.PropTypes.func };
+
 export default PageSplit;

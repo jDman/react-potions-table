@@ -29,4 +29,6 @@ class Search extends React.Component {
   }
 }
 
+Search.propTypes = { searchResult: React.PropTypes.func };
+
 export default Search;

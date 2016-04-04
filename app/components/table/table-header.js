@@ -6,4 +6,6 @@ class TableHeader extends React.Component{
   }
 }
 
+TableHeader.propTypes = { cellData: React.PropTypes.string };
+
 export default TableHeader;

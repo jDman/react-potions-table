@@ -25,4 +25,12 @@ class TableCell extends React.Component{
   }
 }
 
+TableCell.propTypes = {
+  cellData: React.PropTypes.oneOfType([
+    React.PropTypes.string,
+    React.PropTypes.number,
+    React.PropTypes.bool
+  ])
+};
+
 export default TableCell;
